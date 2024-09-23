@@ -1,0 +1,91 @@
+span.ren1 {position:absolute; z-index:-2; margin-left:-10px; margin-top:-15px;}
+span.ren2 {position:absolute; z-index:-2; margin-left:-10px; margin-top:185px;}
+span.ren3 {position:absolute; z-index:-2; margin-left:-10px; margin-top:385px;}
+span.ren4 {position:absolute; z-index:-2; margin-left:-10px; margin-top:585px;}
+span.ren5 {position:absolute; z-index:-2; margin-left:-10px; margin-top:785px;}
+span.ren15 {position:absolute; z-index:-2; margin-left:-10px; margin-top: 85px;}
+span.ren25 {position:absolute; z-index:-2; margin-left:-10px; margin-top:285px;}
+span.ren35 {position:absolute; z-index:-2; margin-left:-10px; margin-top:485px;}
+span.ren45 {position:absolute; z-index:-2; margin-left:-10px; margin-top:685px;}
+#c1{ margin-left:90px;}
+#c2{ margin-left:190px;}
+#c3{ margin-left:290px;}
+#c4{ margin-left:390px;}
+#c5{ margin-left:490px;}
+#c6{ margin-left:590px;}
+img.folio {margin-top:-17px;}
+p.folio {color: black; text-align:right;  margin-top:  1; font-size:  7pt; font-family: Arial, Helvatica, sans-serif;}
+
+.tit   {color: black; text-align:center; margin-top: -1; font-size: 12pt; font-family: Arial, Helvatica, sans-serif; font-weight: 700;}
+.titSe {color: black; text-align:center; margin-top: -3; font-size: 11pt; font-family: Arial, Helvatica, sans-serif; font-weight: 200; font-style:italic;}
+.titDe {color: black; text-align:center; margin-top: -20; font-size: 11pt; font-family: Arial, Helvatica, sans-serif; font-weight: 200; font-style:italic;}
+.tit12 {color: black; text-align:center; margin-top: -20; font-size: 12pt; font-family: Arial, Helvatica, sans-serif; font-weight: 700;}
+
+.tam8  {color: black; text-align:justify; margin-top:-5; margin-top:-4; margin-bottom:-2; font-size: 8pt; font-family: Times New Roman, Arial;}
+.tam9  {color: black; text-align:justify; margin-left: 1; margin-right: 5; font-size: 11pt; font-family: Arial; font-style:italic}
+.tam10 {color: black; font-size: 10pt; font-family: Arial, Helvatica, sans-serif; margin-left: 0; margin-right: 0;}
+.comic {color: black; text-align:justify; margin-left: 15; margin-right: 15; font-size: 8pt; font-family: Comic Sans MS, Arial, Helvatica, sans-serif;}
+.tam11 {color: black; font-size: 11pt; font-family: Arial, Helvatica, sans-serif;}
+.con12 {color: black; font-size: 12pt; font-family:  Times New Roman, Arial, Helvatica, sans-serif;}
+.tam12 {color: black; text-align:justify; margin-left: 30; font-size: 12pt; font-family: Arial, Helvatica, sans-serif;}
+.tam13 {color: black; text-align:justify; margin-left: 30; font-size: 13pt; font-family: Arial, Helvatica, sans-serif;}
+.tam14 {color: black; text-align:justify; margin-left: 30; font-size: 14pt; font-family: Arial, Helvatica, sans-serif;}
+.tiras {color: black; margin-top:0; margin-left:0; margin-bottom:0; font-size: 9pt; font-family: Times New Roman;}
+
+#centro{text-align:center;}
+#azul{color:navy;}
+#dere{text-align:right;}
+#just{text-align:justify; margin-left: 5; margin-right: 5;}
+#FonA{font-family:Arial;}
+#FonC{font-family:Curier;}
+#despe{margin-left: 5;}
+
+.mini  {color: black; text-align:left; font-size: 9pt; font-family: Arial, Helvatica, sans-serif;}
+.minimini {color: black; text-align:center; font-size: 8pt; font-family: Arial, Helvatica, sans-serif;}
+
+
+.nor30  {color: black; text-align:justify; margin-left: 30; margin-right: 10; font-size: 11pt; font-family: Arial, Helvatica, sans-serif;}
+.normal {color: black; text-align:justify; font-size: 11pt; font-family: Arial, Helvatica, sans-serif;}
+.blanco {color: white; text-align:justify; margin-left: 30; font-size: 11pt; font-family: Arial, Helvatica, sans-serif;}
+.negro  {color: black; text-align:justify; margin-left: 30; font-size: 11pt; font-family: Arial, Helvatica, sans-serif;}
+.center {color: black; text-align:center; font-size: 11pt; font-family: Arial, Helvatica, sans-serif;}
+.encu {color: navy; font-size: 12pt; font-family: Arial, Helvatica, sans-serif; font-weight: 700;}
+.entex{color: black; font-size: 12pt; font-family: Arial, Helvatica, sans-serif; font-weight:bold}
+.entex1{color: black; font-size: 12pt; margin-top: -20; font-family: Arial, Helvatica, sans-serif; font-weight:bold}
+.enpon{color: black; font-size: 9pt; margin-top: -20; font-family: Arial, Helvatica, sans-serif; font-style:italic;}
+.cred {color: "#CCA836"; text-align:center; font-size: 13.5pt; font-family: Arial, Helvatica, sans-serif;}
+
+
+h2.tam   {color: black; text-align:center; margin-left: 30; font-size: 14pt; font-family: Arial, Times New Roman, Arial, Helvatica, sans-serif;}
+.head {
+   text-align : center;
+   border : 1px outset #FFFFCC;
+   background : url("\ima\head.gif");
+}
+.consta {
+   text-align : center;
+   border : 2px outset #FFFFFF;
+   background : url("\ima\level.gif");
+}
+.control {
+	border : 1px outset White;
+	background : #C1C1C1 url("ctrl.gif");
+}
+.margeng
+{
+   border:solid windowtext .5pt outset Gray;
+}
+.margen {
+   border:solid windowtext .5pt;
+}
+
+.gris{
+  position:absolute;
+  color: gray; 
+  margin-top: -10;    
+  margin-left: 0;
+}
+all.bot{
+  margin-top:-1 px; 
+  margin-bottom:-5 px;
+}

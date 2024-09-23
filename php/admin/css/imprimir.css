@@ -1,0 +1,6 @@
+
+
+ #div.encabezado, #div.navegacion , #div.topinterna ,#div.menu-interna, #div.logout. #div.pie-banners , #div.pie-derechos{
+  display: none !important;
+}
+

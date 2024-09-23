@@ -1,0 +1,94 @@
+
+
+ #imgEncabezadoUNAM , #imgServiciosEcolares , div.navegacion , div.topinterna , div.menu-interna, #logout , div.pie-banners , div.pie-derechos, #contactoAlm ,#divFormAlumno{
+  display: none !important;
+ }
+ 
+
+ /*
+table {
+*/
+
+#tableAlumnoPrint {
+	
+	cursor: default;
+	padding: 0;
+	margin: 5px auto;
+	background-color:#ccc;
+	font-size: 14px;
+	text-align: center;
+}
+
+/*
+th, td{
+*/
+#tableAlumnoPrint th, #tableAlumnoPrint td{
+	padding: 2px 5px;
+	margin: 0;
+}
+
+/*
+tr th {
+*/
+#divTableAlumno tr th {
+	background-color: #69c;
+	color: #fff;
+	font-weight: bolder;
+}
+
+/*
+tbody {
+*/
+#tableAlumnoPrint tbody {
+
+	font-weight: bold;
+}
+
+/*
+tbody tr:hover{
+*/
+#tableAlumnoPrint tbody tr:hover{
+	background-color: #FEEFB3 !important;
+}
+
+/*
+tr:nth-child(odd){
+*/
+#tableAlumnoPrint tr:nth-child(odd){
+	background-color: #fff;
+}
+
+/*
+tr:nth-child(even){
+*/
+#tableAlumnoPrint tr:nth-child(even){
+	background-color: #dff;
+}
+
+/*
+th:first-child,
+td:first-child {
+*/
+#tableAlumnoPrint th:first-child,
+#tableAlumnoPrint td:first-child {
+	-webkit-border-top-left-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+/*
+th:last-child,
+td:last-child {
+*/
+#tableAlumnoPrint th:last-child,
+#tableAlumnoPrint td:last-child {
+	-webkit-border-top-right-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	-moz-border-radius-topright: 5px;
+	-moz-border-radius-bottomright: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}

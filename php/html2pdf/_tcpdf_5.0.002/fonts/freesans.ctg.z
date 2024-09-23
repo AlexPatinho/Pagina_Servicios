@@ -1,0 +1,138 @@
+matting elements, if any. */
+                    if ($this->elementInScope('nobr')) {
+                        $this->emitToken(array(
+                            'name' => 'nobr',
+                            'type' => HTML5_Tokenizer::ENDTAG,
+                        ));
+                        $this->reconstructActiveFormattingElements();
+                    }
+
+                    /* Insert an HTML element for the token. */
+                    $el = $this->insertElement($token);
+
+                    /* Add that element to the list of active formatting
+                    elements. */
+                    $this->a_formatting[] = $el;
+                break;
+
+                // another diversion
+
+                /* A start tag token whose tag name is "button" */
+                case 'button':
+                    /* If the stack of open elements has a button element in scope,
+                    then this is a parse error; act as if an end tag with the tag
+                    name "button" had been seen, then reprocess the token. (We don't
+                    do that. Unnecessary.) (I hope you're right! -- ezyang) */
+                    if($this->elementInScope('button')) {
+                        $this->emitToken(array(
+                            'name' => 'button',
+                            'type' => HTML5_Tokenizer::ENDTAG
+                        ));
+                    }
+
+                    /* Reconstruct the active formatting elements, if any. */
+                    $this->reconstructActiveFormattingElements();
+
+                    /* Insert an HTML element for the token. */
+                    $this->insertElement($token);
+
+                    /* Insert a marker at the end of the list of active
+                    formatting elements. */
+                    $this->a_formatting[] = self::MARKER;
+
+                    $this->flag_frameset_ok = false;
+                break;
+
+                case 'applet': case 'marquee': case 'object':
+                    /* Reconstruct the active formatting elements, if any. */
+                    $this->reconstructActiveFormattingElements();
+
+                    /* Insert an HTML element for the token. */
+                    $this->insertElement($token);
+
+                    /* Insert a marker at the end of the list of active
+                    formatting elements. */
+                    $this->a_formatting[] = self::MARKER;
+
+                    $this->flag_frameset_ok = false;
+                break;
+
+                // spec diversion
+
+                /* A start tag whose tag name is "table" */
+                case 'table':
+                    /* If the Document is not set to quirks mode, and the 
+                     * stack of open elements has a p element in scope, then 
+                     * act as if an end tag with the tag name "p" had been 
+                     * seen. */
+                    if($this->quirks_mode !== self::QUIRKS_MODE &&
+                    $this->elementInScope('p')) {
+                        $this->emitToken(array(
+                            'name' => 'p',
+                            'type' => HTML5_Tokenizer::ENDTAG
+                        ));
+                    }
+
+                    /* Insert an HTML element for the token. */
+                    $this->insertElement($token);
+
+                    $this->flag_frameset_ok = false;
+
+                    /* Change the insertion mode to "in table". */
+                    $this->mode = self::IN_TABLE;
+                break;
+
+                /* A start tag whose tag name is one of: "area", "basefont",
+                "bgsound", "br", "embed", "img", "param", "spacer", "wbr" */
+                case 'area': case 'basefont': case 'bgsound': case 'br':
+                case 'embed': case 'img': case 'input': case 'keygen': case 'spacer':
+                case 'wbr':
+                    /* Reconstruct the active formatting elements, if any. */
+                    $this->reconstructActiveFormattingElements();
+
+                    /* Insert an HTML element for the token. */
+                    $this->insertElement($token);
+
+                    /* Immediately pop the current node off the stack of open elements. */
+                    array_pop($this->stack);
+
+                    // YYY: Acknowledge the token's self-closing flag, if it is set.
+
+                    $this->flag_frameset_ok = false;
+                break;
+
+                case 'param': case 'source':
+                    /* Insert an HTML element for the token. */
+                    $this->insertElement($token);
+
+                    /* Immediately pop the current node off the stack of open elements. */
+                    array_pop($this->stack);
+
+                    // YYY: Acknowledge the token's self-closing flag, if it is set.
+                break;
+
+                /* A start tag whose tag name is "hr" */
+                case 'hr':
+                    /* If the stack of open elements has a p element in scope,
+                    then act as if an end tag with the tag name p had been seen. */
+                    if($this->elementInScope('p')) {
+                        $this->emitToken(array(
+                            'name' => 'p',
+                            'type' => HTML5_Tokenizer::ENDTAG
+                        ));
+                    }
+
+                    /* Insert an HTML element for the token. */
+                    $this->insertElement($token);
+
+                    /* Immediately pop the current node off the stack of open elements. */
+                    array_pop($this->stack);
+
+                    // YYY: Acknowledge the token's self-closing flag, if it is set.
+
+                    $this->flag_frameset_ok = false;
+                break;
+
+                /* A start tag whose tag name is "image" */
+                case 'image':
+      

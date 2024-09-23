@@ -1,0 +1,934 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+body {
+	margin-top: 0px;
+	background-color:#f2f8fe;
+}
+
+/*
+Contenedor general centra la pÃ¡gina
+*/
+
+.contenedor {
+	margin: 0 auto;
+	width: 980px;
+}
+
+
+/*
+Encabezado
+*/
+
+.prototipo {
+	background-image: url(../imgs/prototipo-titulo.jpg);
+	background-repeat: no-repeat;
+	float: left;
+	height: 55px;
+	width: 978px;
+}
+
+
+.encabezado{
+	width: 980px;
+	float: left;
+}
+
+
+
+/*
+Navegacion
+*/
+
+
+.navegacion {
+	height: 22px;
+	width: 980px;
+	background-color: #e1b715;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #f8ebb9;
+	float: left;
+}
+
+.navegacion-inicio {
+	float: left;
+	height: 18px;
+	width: 25px;
+	margin-left: 5px;
+	padding-top: 3px;
+}
+
+.navegacion-fecha {
+	height: 19px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #1b1306;
+	padding-top: 3px;
+	padding-left: 10px;
+	width: 240px;
+	float: left;
+}
+
+.navegacion-mapa {
+	height: 18px;
+	width: 315px;
+	float: left;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0D233D;
+	padding-top: 3px;
+	margin-left: 5px;
+}
+
+
+.navegacion-mapa a:link{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0D233D;
+	text-decoration: none;	
+}
+
+.navegacion-mapa a:visited{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0D233D;
+	text-decoration: none;	
+}
+
+
+.navegacion-mapa a:hover{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0D233D;
+	text-decoration: underline;	
+}
+
+
+.navegacion-banderas {
+	height: 19px;
+	width: 120px;
+	padding-top: 3px;
+	float: left;
+}
+
+.navegacion-banderas img {
+	padding-top: 3px;
+	padding-right: 4px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;	
+}
+
+.navegacion-buscador {
+	float: right;
+	width: 250px;
+	height: 21px;
+}
+
+.navegacion-buscador input.campo{
+	height: 14px;
+	width: 150px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+	border: 1px solid #705C0B;
+}
+
+
+
+
+/*
+Termina Navegacion
+*/
+
+
+
+
+/*
+Inicia Contenido
+*/
+
+
+
+
+.contenido {
+    width: 980px;
+	background-color: #FFFFFF;
+	float: left;
+}
+
+
+.titulos{
+	height: 88px;
+	width: 977px;
+	float: left;
+	background-repeat: no-repeat;
+	background-position: left top;
+	font-family: "Trebuchet MS";
+	font-size: 17px;
+	font-style: italic;
+	color: #357DBC;
+	margin-left: 2px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+
+
+.topinterna {
+	height: 61px;
+	width: 980px;
+	float: left;
+	background-repeat: no-repeat;
+	background-position: left top;
+	font-family: "Trebuchet MS";
+	font-size: 17px;
+	font-style: italic;
+	color: #357DBC;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+
+
+.menu-izq {
+	background-color: #FFFFFF;
+	float: left;
+	width: 188px;
+	padding-left: 8px;
+} 
+ 
+ .menu-izq  h2 { 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 14px; 
+    color: #0a4e9b; 
+    font-weight: bold; 
+    border-bottom-width: 1px; 
+    border-bottom-style: solid; 
+    border-bottom-color: #deae3d; 
+    margin-top: 5px; 
+    text-transform: uppercase; 
+    margin-left: 0px; 
+    margin-right: 3px; 
+} 
+ 
+.menu-izq  a,visited { 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 12px; 
+    color: #003366; 
+} 
+ 
+.menu-izq  a:hover { 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 12px; 
+    color: #FF9900; 
+} 
+ 
+.menu-izq  li { 
+    list-style-type: none; 
+      padding-left: 0; 
+      margin-left: 0; 
+} 
+ 
+.menu-izq  ul { 
+    list-style-type: none; 
+    padding-left: 0; 
+      margin-left: 0; 
+} 
+ 
+.menu-izq  h3 { 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 13px; 
+    color: #0a4e9b; 
+    font-weight: bold; 
+    margin-bottom: 3px; 
+    margin-top: 5px; 
+    margin-left: 8px; 
+    border-bottom-width: 1px; 
+    border-bottom-style: solid; 
+    border-bottom-color: #CCCCCC; 
+}
+
+
+
+.informacion {
+	float: right;
+	width: 770px;
+	margin-right: 1px;
+	border: 1px solid #CCCCCC;
+	padding-left: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333333;
+	padding-bottom: 10px;
+	background-image: url(../imgs/bg-feat.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+
+
+#tamano {
+	float: right;
+	width: 75px;
+	margin-top: 5px;
+	font-size: 15px;
+}
+
+
+#tamano img {
+	padding: 0px;
+	margin: 0px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+
+
+
+
+
+.info-contenido {
+	width: 770px;
+	float: left;
+}
+
+
+
+.info-contenido h1 {
+	font-family: "Trebuchet MS";
+	font-size: 23px;
+	color: #003366;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+
+
+
+.info-contenido li {
+	background-image: url(../imgs/bullet-lista-internas.gif);
+	background-repeat: no-repeat;
+	padding-left: 10px;
+	list-style-type: none;
+	background-position: 3px 6px;
+	margin-bottom: 5px;
+}
+
+
+.info-contenido a,visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #003366;
+	text-decoration: none;
+}
+
+.info-contenido a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #003366;
+	text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+.info-contenido-13 {
+	width: 99%;
+	float: left;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333333;
+}
+
+
+
+.info-contenido-15 {
+	width: 99%;
+	float: left;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #333333;
+}
+
+
+.info-contenido-18 {
+	width: 99%;
+	float: left;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #333333;
+	font-size: 18px;
+}
+
+
+
+
+
+.info-contenido-13 a,visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #003366;
+	text-decoration: none;
+}
+
+
+.info-contenido-15 a,visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #003366;
+	text-decoration: none;
+}
+
+.info-contenido-18 a,visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #003366;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+.info-contenido-13 a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #003366;
+	text-decoration: none;
+}
+
+
+.info-contenido-15 a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #003366;
+	text-decoration: none;
+}
+
+.info-contenido-18 a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #003366;
+	text-decoration: none;
+}
+
+
+
+
+
+/*
+estilos para internas sin menÃº de izquierda
+*/
+
+.info-estudiantes2 {
+	float: left;
+	width: 968px;
+	margin-right: 1px;
+	border: 1px solid #CCCCCC;
+	padding-left: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333333;
+	padding-bottom: 10px;
+	background-image: url(../imgs/bg-sin-menu.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+
+.info-contenido2 {
+	width: 98%;
+	float: left;
+}
+
+
+
+.info-contenido2 h1 {
+	font-family: "Trebuchet MS";
+	font-size: 23px;
+	color: #003366;
+	text-decoration: none;
+	background-image: url(../imgs/bullet-titulos.gif);
+	background-repeat: no-repeat;
+	padding-left: 55px;
+	list-style-type: none;
+}
+
+
+
+.info-contenido2 ul {
+	
+	padding-left: 5px;
+	
+}
+
+.info-contenido2 li {
+	background-image: url(../imgs/bullet-lista-internas.gif);
+	background-repeat: no-repeat;
+	padding-left: 10px;
+	list-style-type: none;
+	background-position: 3px 6px;
+}
+
+
+.info-contenido2 a,visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #003366;
+	text-decoration: none;
+}
+
+.info-contenido2 a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FF9900;
+	text-decoration: none;
+}
+
+
+/*
+Termina estilos para internas sin menÃº izquierda
+*/
+
+
+
+
+
+/*
+inicia estilos menÃº ziquierda de Noticias
+*/
+
+
+
+
+.menu-interna {
+	background-color: #FFFFFF;
+	float: left;
+	width: 188px;
+	padding-left: 8px;
+} 
+ 
+ .menu-interna h2 { 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 14px; 
+    color: #0a4e9b; 
+    font-weight: bold; 
+    border-bottom-width: 1px; 
+    border-bottom-style: solid; 
+    border-bottom-color: #deae3d; 
+    margin-top: 5px; 
+    text-transform: uppercase; 
+    margin-left: 0px; 
+    margin-right: 3px; 
+} 
+ 
+.menu-interna a,visited { 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 12px; 
+    color: #003366; 
+} 
+ 
+.menu-interna a:hover { 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 12px; 
+    color: #FF9900; 
+} 
+ 
+.menu-interna li { 
+    list-style-type: none; 
+      padding-left: 0; 
+      margin-left: 0; 
+} 
+ 
+.menu-interna ul { 
+    list-style-type: none; 
+    padding-left: 0; 
+      margin-left: 0; 
+} 
+ 
+.menu-interna h3 { 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 13px; 
+    color: #0a4e9b; 
+    font-weight: bold; 
+    margin-bottom: 3px; 
+    margin-top: 5px; 
+    margin-left: 8px; 
+    border-bottom-width: 1px; 
+    border-bottom-style: solid; 
+    border-bottom-color: #CCCCCC; 
+}
+
+
+/*
+terminan estilos menÃº ziquierda de Noticias
+*/
+
+
+
+/*
+inician estilos para platillas noticias
+*/
+
+
+
+.noticias {
+	width: 770px;
+	float: left;
+}
+
+.noticias img {
+	border: 1px solid #fcf5d8;
+	padding: 5px;
+}
+
+.noticias h2 a,visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 23px;
+	font-weight: bold;
+	color: #003366;
+	text-decoration: none;
+}
+
+
+
+.noticias h2 a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 23px;
+	font-weight: bold;
+	color: #003366;
+	text-decoration: none;
+}
+
+.noticias h3{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #003366;
+	text-decoration: none;
+}
+
+
+.noticias h4{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	color: #003366;
+	text-decoration: none;
+	background-image: url(../imgs/bullet-lista-internas.gif);
+	background-repeat: no-repeat;
+	padding-left: 9px;
+	background-position: 2px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+}
+
+
+.noticias-destacada {
+	width: 740px;
+	float: left;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+	padding-bottom: 15px;
+}
+.noticia-menor {
+	float: left;
+	width: 740px;
+	margin-top: 10px;
+}
+
+
+.titulos-noticas-ext {
+	background-position:left top;
+	background-repeat:no-repeat;
+	border-bottom:4px solid #2158A1;
+	color:#FF5400;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	margin-bottom:7px;
+	padding-bottom:5px;
+	padding-left:5px;
+	text-decoration:none;
+	font-weight: bold;
+}
+
+.titulos-noticas-ext a, visited {
+color:#FF5400;
+font-family:Arial,Helvetica,sans-serif;
+font-size:16px;
+text-decoration:none;
+}
+.titulos-noticas-ext a:hover{
+ color: #265795;    
+ font-size:16px;
+}
+
+.noticia-externa {
+	margin-bottom:15px;
+	margin-top:2px;
+	padding-bottom:10px;
+	padding-top:10px;
+	width: 765px;
+	float: left;
+	padding-right: 5px;
+}
+
+.noticia-externa img {
+float:left;
+margin-bottom:5px;
+margin-right:10px;
+max-width:180px;
+}
+
+
+
+
+
+/*
+terminan estilos para platillas noticias
+*/
+
+
+
+/*
+8 estilos para los fodos
+*/
+
+
+
+.info-general {
+	float: right;
+	width: 770px;
+	margin-right: 1px;
+	border: 1px solid #CCCCCC;
+	padding-left: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333333;
+	padding-bottom: 10px;
+	background-image: url(../imgs/bg-general.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+
+
+
+
+.info-docencia {
+	float: right;
+	width: 770px;
+	margin-right: 1px;
+	border: 1px solid #CCCCCC;
+	padding-left: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333333;
+	padding-bottom: 10px;
+	background-image: url(../imgs/bg-docencia.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+
+
+
+
+.info-investigacion {
+	float: right;
+	width: 770px;
+	margin-right: 1px;
+	border: 1px solid #CCCCCC;
+	padding-left: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333333;
+	padding-bottom: 10px;
+	background-image: url(../imgs/bg-investigacion.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+
+
+
+
+.info-extension {
+	float: right;
+	width: 770px;
+	margin-right: 1px;
+	border: 1px solid #CCCCCC;
+	padding-left: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333333;
+	padding-bottom: 10px;
+	background-image: url(../imgs/bg-cultura.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+
+.info-estudiantes {
+	float: right;
+	width: 770px;
+	border: 1px solid #CCCCCC;
+	padding-left: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333333;
+	padding-bottom: 10px;
+	background-image: url(../imgs/bg-feat.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+.info-academicos {
+	float: right;
+	width: 770px;
+	margin-right: 1px;
+	border: 1px solid #CCCCCC;
+	padding-left: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333333;
+	padding-bottom: 10px;
+	background-image: url(../imgs/bg-academicos.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+
+.info-egresados {
+	float: right;
+	width: 770px;
+	margin-right: 1px;
+	border: 1px solid #CCCCCC;
+	padding-left: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333333;
+	padding-bottom: 10px;
+	background-image: url(../imgs/bg-egresados.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+
+.info-vinculacion {
+	float: right;
+	width: 770px;
+	margin-right: 1px;
+	border: 1px solid #CCCCCC;
+	padding-left: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333333;
+	padding-bottom: 10px;
+	background-image: url(../imgs/bg-vinculacion.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+
+
+
+/*
+Termina Contenido
+*/
+
+
+/*
+Inician Pie con Banners y Pie con Derechos
+*/
+
+
+
+.pie-banners {
+	background-image: url(../imgs/bg-pie.jpg);
+	height: 50px;
+	width: 970px;
+	padding-top: 3px;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #fbecb5;
+	border-bottom-color: #fbecb5;
+	float: left;
+	padding-right: 10px;
+	text-align: center;
+	padding-bottom: 3px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-weight: 600;
+	color: #FFF;
+}
+
+
+.pie-banners img{
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	margin-left: 5px;
+}
+
+.pie-derechos {
+	width: 978px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	border-right-width: 0px;
+	border-left-width: 0px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+	padding: 5px;
+	margin-left: 2px;
+	margin-top: 3px;
+	float: left;
+	background-image: url(../imgs/pie-bg.jpg);
+	background-repeat: no-repeat;
+	height: 82px;
+}
+
+.pie-derechos a,visited {
+	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #034279;
+	
+}
+
+
+
+.logo{
+	float: left;
+	width: 485px;
+	text-align: right;
+	margin-top: 9px;
+}
+
+.administrado{
+	float: right;
+	width: 978px;
+	margin-top: 9px;
+	color: #1b5799;
+	text-align: center;
+}
+
+
+/*
+Terminan Pie con Banners y Pie con Derechos
+*/

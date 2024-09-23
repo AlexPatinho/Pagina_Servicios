@@ -1,0 +1,174 @@
+/* Root = Vertical, Secondary = Vertical */
+ul#navmenu-v,
+ul#navmenu-v li,
+ul#navmenu-v ul {
+	/*z-index: 999999;*/
+	background-color: #FFFFFF;
+	float: left;
+	width: 180px;
+}
+
+ul#navmenu-v:after /*From IE 7 lack of compliance*/{
+  clear: both;
+  display: block;
+  font: 1px/0px serif;
+  content: ".";
+  height: 0;
+  visibility: hidden;
+}
+
+ul#navmenu-v li {
+	float: left; /*For IE*/
+	position: relative;
+	list-style-type: none;
+	/*  width: 188px;*/
+  	line-height: 15pt;
+	display: block;
+}
+
+/* Root Menu */
+ul#navmenu-v a {
+	display: block;
+	height: auto !important;
+	height: 1%; /*For IE*/
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #113e79;
+	text-decoration: none;
+}
+
+ul#navmenu-v li ul li a {
+	color: #113e79;
+	padding-left: 5px;
+	background-color: #f0f6fe;
+	border-top-color: #316bb2;
+	border-top: 1px solid;
+}
+/* Root Menu Hover Persistence */
+ul#navmenu-v a:hover,
+ul#navmenu-v li:hover a,
+ul#navmenu-v li.iehover a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF9900;
+	
+	/*
+	
+  background: #CCC;
+  color: #FFF;
+*/
+}
+
+/* 2nd Menu */
+ul#navmenu-v li:hover li a,
+ul#navmenu-v li.iehover li a {
+/*
+*/
+	color: #113e79;
+	padding-left: 5px;
+	background-color: #f0f6fe;
+	border-top-color: #316bb2;
+	border-top-width: 1px;
+	border-top-style: solid;
+}
+
+/* 2nd Menu Hover Persistence */
+ul#navmenu-v li:hover li a:hover,
+ul#navmenu-v li:hover li:hover a,
+ul#navmenu-v li.iehover li a:hover,
+ul#navmenu-v li.iehover li.iehover a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0d283f;
+	background-color: #e7e5e5;
+	/*
+	width: 188px;*/
+/*
+  background: #CCC;
+  color: #FFF;
+*/
+}
+
+/* 3rd Menu */
+ul#navmenu-v li:hover li:hover li a,
+ul#navmenu-v li.iehover li.iehover li a {
+	color: #113e79;
+	padding-left: 5px;
+	background-color: #f0f6fe;
+	/*
+	width: 188px;*/
+}
+
+/* 3rd Menu Hover Persistence */
+ul#navmenu-v li:hover li:hover li a:hover,
+ul#navmenu-v li:hover li:hover li:hover a,
+ul#navmenu-v li.iehover li.iehover li a:hover,
+ul#navmenu-v li.iehover li.iehover li.iehover a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0d283f;
+	background-color: #e7e5e5;
+	/*
+	width: 188px;*//*
+  background: #CCC;
+  color: #FFF;
+*/
+}
+
+/* 4th Menu */
+ul#navmenu-v li:hover li:hover li:hover li a,
+ul#navmenu-v li.iehover li.iehover li.iehover li a {
+  background: #2e79ba;
+  color: #fff;
+  padding-left: 5px;
+/* 
+ width: 188px;*/
+}
+
+/* 4th Menu Hover */
+ul#navmenu-v li:hover li:hover li:hover li a:hover,
+ul#navmenu-v li.iehover li.iehover li.iehover li a:hover {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #FF9900;
+  background: #CCC;
+/*
+  color: #FFF;
+*/
+}
+
+ul#navmenu-v ul,
+ul#navmenu-v ul ul,
+ul#navmenu-v ul ul ul {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 180px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-right-color: #316bb2;
+	border-bottom-color: #316bb2;
+	border-left-color: #316bb2;
+}
+
+/* Do Not Move - Must Come Before display:block for Gecko */
+ul#navmenu-v li:hover ul ul,
+ul#navmenu-v li:hover ul ul ul,
+ul#navmenu-v li.iehover ul ul,
+ul#navmenu-v li.iehover ul ul ul {
+  display: none;
+}
+/*
+ul#navmenu-v li:hover ul,
+ul#navmenu-v ul li:hover ul,
+ul#navmenu-v ul ul li:hover ul,
+ul#navmenu-v li.iehover ul,
+ul#navmenu-v ul li.iehover ul,
+ul#navmenu-v ul ul li.iehover ul {
+  display: block;
+}
+*/

@@ -1,0 +1,1540 @@
+StartFontMetrics 4.1
+Comment Copyright (c) 1985, 1987, 1989, 1990, 1993, 1997 Adobe Systems Incorporated.  All Rights Reserved.
+Comment Creation Date: Thu May  1 12:49:17 1997
+Comment UniqueID 43068
+Comment VMusage 43909 54934
+FontName Times-Roman
+FullName Times Roman
+FamilyName Times
+Weight Roman
+ItalicAngle 0
+IsFixedPitch false
+CharacterSet ExtendedRoman
+FontBBox -168 -218 1000 898
+UnderlinePosition -100
+UnderlineThickness 50
+Version 002.00
+Notice Copyright (c) 1985, 1987, 1989, 1990, 1993, 1997 Adobe Systems Incorporated.  All Rights Reserved.Times is a trademark of Linotype-Hell AG and/or its subsidiaries.
+EncodingScheme WinAnsiEncoding
+CapHeight 662
+XHeight 450
+Ascender 683
+Descender -217
+StdHW 28
+StdVW 84
+StartCharMetrics 317
+C 32 ; WX 250 ; N space ; B 0 0 0 0 ;
+C 160 ; WX 250 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 333 ; N exclam ; B 130 -9 238 676 ;
+C 34 ; WX 408 ; N quotedbl ; B 77 431 331 676 ;
+C 35 ; WX 500 ; N numbersign ; B 5 0 496 662 ;
+C 36 ; WX 500 ; N dollar ; B 44 -87 457 727 ;
+C 37 ; WX 833 ; N percent ; B 61 -13 772 676 ;
+C 38 ; WX 778 ; N ampersand ; B 42 -13 750 676 ;
+C 146 ; WX 333 ; N quoteright ; B 79 433 218 676 ;
+C 40 ; WX 333 ; N parenleft ; B 48 -177 304 676 ;
+C 41 ; WX 333 ; N parenright ; B 29 -177 285 676 ;
+C 42 ; WX 500 ; N asterisk ; B 69 265 432 676 ;
+C 43 ; WX 564 ; N plus ; B 30 0 534 506 ;
+C 44 ; WX 250 ; N comma ; B 56 -141 195 102 ;
+C 45 ; WX 333 ; N hyphen ; B 39 194 285 257 ;
+C 173 ; WX 333 ; N hyphen ; B 39 194 285 257 ;
+C 46 ; WX 250 ; N period ; B 70 -11 181 100 ;
+C 47 ; WX 278 ; N slash ; B -9 -14 287 676 ;
+C 48 ; WX 500 ; N zero ; B 24 -14 476 676 ;
+C 49 ; WX 500 ; N one ; B 111 0 394 676 ;
+C 50 ; WX 500 ; N two ; B 30 0 475 676 ;
+C 51 ; WX 500 ; N three ; B 43 -14 431 676 ;
+C 52 ; WX 500 ; N four ; B 12 0 472 676 ;
+C 53 ; WX 500 ; N five ; B 32 -14 438 688 ;
+C 54 ; WX 500 ; N six ; B 34 -14 468 684 ;
+C 55 ; WX 500 ; N seven ; B 20 -8 449 662 ;
+C 56 ; WX 500 ; N eight ; B 56 -14 445 676 ;
+C 57 ; WX 500 ; N nine ; B 30 -22 459 676 ;
+C 58 ; WX 278 ; N colon ; B 81 -11 192 459 ;
+C 59 ; WX 278 ; N semicolon ; B 80 -141 219 459 ;
+C 60 ; WX 564 ; N less ; B 28 -8 536 514 ;
+C 61 ; WX 564 ; N equal ; B 30 120 534 386 ;
+C 62 ; WX 564 ; N greater ; B 28 -8 536 514 ;
+C 63 ; WX 444 ; N question ; B 68 -8 414 676 ;
+C 64 ; WX 921 ; N at ; B 116 -14 809 676 ;
+C 65 ; WX 722 ; N A ; B 15 0 706 674 ;
+C 66 ; WX 667 ; N B ; B 17 0 593 662 ;
+C 67 ; WX 667 ; N C ; B 28 -14 633 676 ;
+C 68 ; WX 722 ; N D ; B 16 0 685 662 ;
+C 69 ; WX 611 ; N E ; B 12 0 597 662 ;
+C 70 ; WX 556 ; N F ; B 12 0 546 662 ;
+C 71 ; WX 722 ; N G ; B 32 -14 709 676 ;
+C 72 ; WX 722 ; N H ; B 19 0 702 662 ;
+C 73 ; WX 333 ; N I ; B 18 0 315 662 ;
+C 74 ; WX 389 ; N J ; B 10 -14 370 662 ;
+C 75 ; WX 722 ; N K ; B 34 0 723 662 ;
+C 76 ; WX 611 ; N L ; B 12 0 598 662 ;
+C 77 ; WX 889 ; N M ; B 12 0 863 662 ;
+C 78 ; WX 722 ; N N ; B 12 -11 707 662 ;
+C 79 ; WX 722 ; N O ; B 34 -14 688 676 ;
+C 80 ; WX 556 ; N P ; B 16 0 542 662 ;
+C 81 ; WX 722 ; N Q ; B 34 -178 701 676 ;
+C 82 ; WX 667 ; N R ; B 17 0 659 662 ;
+C 83 ; WX 556 ; N S ; B 42 -14 491 676 ;
+C 84 ; WX 611 ; N T ; B 17 0 593 662 ;
+C 85 ; WX 722 ; N U ; B 14 -14 705 662 ;
+C 86 ; WX 722 ; N V ; B 16 -11 697 662 ;
+C 87 ; WX 944 ; N W ; B 5 -11 932 662 ;
+C 88 ; WX 722 ; N X ; B 10 0 704 662 ;
+C 89 ; WX 722 ; N Y ; B 22 0 703 662 ;
+C 90 ; WX 611 ; N Z ; B 9 0 597 662 ;
+C 91 ; WX 333 ; N bracketleft ; B 88 -156 299 662 ;
+C 92 ; WX 278 ; N backslash ; B -9 -14 287 676 ;
+C 93 ; WX 333 ; N bracketright ; B 34 -156 245 662 ;
+C 94 ; WX 469 ; N asciicircum ; B 24 297 446 662 ;
+C 95 ; WX 500 ; N underscore ; B 0 -125 500 -75 ;
+C 145 ; WX 333 ; N quoteleft ; B 115 433 254 676 ;
+C 97 ; WX 444 ; N a ; B 37 -10 442 460 ;
+C 98 ; WX 500 ; N b ; B 3 -10 468 683 ;
+C 99 ; WX 444 ; N c ; B 25 -10 412 460 ;
+C 100 ; WX 500 ; N d ; B 27 -10 491 683 ;
+C 101 ; WX 444 ; N e ; B 25 -10 424 460 ;
+C 102 ; WX 333 ; N f ; B 20 0 383 683 ; L i fi ; L l fl ;
+C 103 ; WX 500 ; N g ; B 28 -218 470 460 ;
+C 104 ; WX 500 ; N h ; B 9 0 487 683 ;
+C 105 ; WX 278 ; N i ; B 16 0 253 683 ;
+C 106 ; WX 278 ; N j ; B -70 -218 194 683 ;
+C 107 ; WX 500 ; N k ; B 7 0 505 683 ;
+C 108 ; WX 278 ; N l ; B 19 0 257 683 ;
+C 109 ; WX 778 ; N m ; B 16 0 775 460 ;
+C 110 ; WX 500 ; N n ; B 16 0 485 460 ;
+C 111 ; WX 500 ; N o ; B 29 -10 470 460 ;
+C 112 ; WX 500 ; N p ; B 5 -217 470 460 ;
+C 113 ; WX 500 ; N q ; B 24 -217 488 460 ;
+C 114 ; WX 333 ; N r ; B 5 0 335 460 ;
+C 115 ; WX 389 ; N s ; B 51 -10 348 460 ;
+C 116 ; WX 278 ; N t ; B 13 -10 279 579 ;
+C 117 ; WX 500 ; N u ; B 9 -10 479 450 ;
+C 118 ; WX 500 ; N v ; B 19 -14 477 450 ;
+C 119 ; WX 722 ; N w ; B 21 -14 694 450 ;
+C 120 ; WX 500 ; N x ; B 17 0 479 450 ;
+C 121 ; WX 500 ; N y ; B 14 -218 475 450 ;
+C 122 ; WX 444 ; N z ; B 27 0 418 450 ;
+C 123 ; WX 480 ; N braceleft ; B 100 -181 350 680 ;
+C 124 ; WX 200 ; N bar ; B 67 -218 133 782 ;
+C 125 ; WX 480 ; N braceright ; B 130 -181 380 680 ;
+C 126 ; WX 541 ; N asciitilde ; B 40 183 502 323 ;
+C 161 ; WX 333 ; N exclamdown ; B 97 -218 205 467 ;
+C 162 ; WX 500 ; N cent ; B 53 -138 448 579 ;
+C 163 ; WX 500 ; N sterling ; B 12 -8 490 676 ;
+C -1 ; WX 167 ; N fraction ; B -168 -14 331 676 ;
+C 165 ; WX 500 ; N yen ; B -53 0 512 662 ;
+C 131 ; WX 500 ; N florin ; B 7 -189 490 676 ;
+C 167 ; WX 500 ; N section ; B 70 -148 426 676 ;
+C 164 ; WX 500 ; N currency ; B -22 58 522 602 ;
+C 39 ; WX 180 ; N quotesingle ; B 48 431 133 676 ;
+C 147 ; WX 444 ; N quotedblleft ; B 43 433 414 676 ;
+C 170 ; WX 500 ; N guillemotleft ; B 42 33 456 416 ;
+C 139 ; WX 333 ; N guilsinglleft ; B 63 33 285 416 ;
+C 155 ; WX 333 ; N guilsinglright ; B 48 33 270 416 ;
+C -1 ; WX 556 ; N fi ; B 31 0 521 683 ;
+C -1 ; WX 556 ; N fl ; B 32 0 521 683 ;
+C 150 ; WX 500 ; N endash ; B 0 201 500 250 ;
+C 134 ; WX 500 ; N dagger ; B 59 -149 442 676 ;
+C 135 ; WX 500 ; N daggerdbl ; B 58 -153 442 676 ;
+C 183 ; WX 250 ; N periodcentered ; B 70 199 181 310 ;
+C 182 ; WX 453 ; N paragraph ; B -22 -154 450 662 ;
+C 149 ; WX 350 ; N bullet ; B 40 196 310 466 ;
+C 130 ; WX 333 ; N quotesinglbase ; B 79 -141 218 102 ;
+C 132 ; WX 444 ; N quotedblbase ; B 45 -141 416 102 ;
+C 148 ; WX 444 ; N quotedblright ; B 30 433 401 676 ;
+C 187 ; WX 500 ; N guillemotright ; B 44 33 458 416 ;
+C 133 ; WX 1000 ; N ellipsis ; B 111 -11 888 100 ;
+C 137 ; WX 1000 ; N perthousand ; B 7 -19 994 706 ;
+C 191 ; WX 444 ; N questiondown ; B 30 -218 376 466 ;
+C 96 ; WX 333 ; N grave ; B 19 507 242 678 ;
+C 180 ; WX 333 ; N acute ; B 93 507 317 678 ;
+C 136 ; WX 333 ; N circumflex ; B 11 507 322 674 ;
+C 152 ; WX 333 ; N tilde ; B 1 532 331 638 ;
+C 175 ; WX 333 ; N macron ; B 11 547 322 601 ;
+C -1 ; WX 333 ; N breve ; B 26 507 307 664 ;
+C -1 ; WX 333 ; N dotaccent ; B 118 581 216 681 ;
+C 168 ; WX 333 ; N dieresis ; B 18 581 315 681 ;
+C -1 ; WX 333 ; N ring ; B 67 512 266 711 ;
+C 184 ; WX 333 ; N cedilla ; B 52 -215 261 0 ;
+C -1 ; WX 333 ; N hungarumlaut ; B -3 507 377 678 ;
+C -1 ; WX 333 ; N ogonek ; B 62 -165 243 0 ;
+C -1 ; WX 333 ; N caron ; B 11 507 322 674 ;
+C 151 ; WX 1000 ; N emdash ; B 0 201 1000 250 ;
+C 198 ; WX 889 ; N AE ; B 0 0 863 662 ;
+C 170 ; WX 276 ; N ordfeminine ; B 4 394 270 676 ;
+C -1 ; WX 611 ; N Lslash ; B 12 0 598 662 ;
+C 216 ; WX 722 ; N Oslash ; B 34 -80 688 734 ;
+C 140 ; WX 889 ; N OE ; B 30 -6 885 668 ;
+C 186 ; WX 310 ; N ordmasculine ; B 6 394 304 676 ;
+C 230 ; WX 667 ; N ae ; B 38 -10 632 460 ;
+C -1 ; WX 278 ; N dotlessi ; B 16 0 253 460 ;
+C -1 ; WX 278 ; N lslash ; B 19 0 259 683 ;
+C 248 ; WX 500 ; N oslash ; B 29 -112 470 551 ;
+C 156 ; WX 722 ; N oe ; B 30 -10 690 460 ;
+C 223 ; WX 500 ; N germandbls ; B 12 -9 468 683 ;
+C 207 ; WX 333 ; N Idieresis ; B 18 0 315 835 ;
+C 233 ; WX 444 ; N eacute ; B 25 -10 424 678 ;
+C -1 ; WX 444 ; N abreve ; B 37 -10 442 664 ;
+C -1 ; WX 500 ; N uhungarumlaut ; B 9 -10 501 678 ;
+C -1 ; WX 444 ; N ecaron ; B 25 -10 424 674 ;
+C 159 ; WX 722 ; N Ydieresis ; B 22 0 703 835 ;
+C 247 ; WX 564 ; N divide ; B 30 -10 534 516 ;
+C 221 ; WX 722 ; N Yacute ; B 22 0 703 890 ;
+C 194 ; WX 722 ; N Acircumflex ; B 15 0 706 886 ;
+C 225 ; WX 444 ; N aacute ; B 37 -10 442 678 ;
+C 219 ; WX 722 ; N Ucircumflex ; B 14 -14 705 886 ;
+C 253 ; WX 500 ; N yacute ; B 14 -218 475 678 ;
+C -1 ; WX 389 ; N scommaaccent ; B 51 -218 348 460 ;
+C 234 ; WX 444 ; N ecircumflex ; B 25 -10 424 674 ;
+C -1 ; WX 722 ; N Uring ; B 14 -14 705 898 ;
+C 220 ; WX 722 ; N Udieresis ; B 14 -14 705 835 ;
+C -1 ; WX 444 ; N aogonek ; B 37 -165 469 460 ;
+C 218 ; WX 722 ; N Uacute ; B 14 -14 705 890 ;
+C -1 ; WX 500 ; N uogonek ; B 9 -155 487 450 ;
+C 203 ; WX 611 ; N Edieresis ; B 12 0 597 835 ;
+C -1 ; WX 722 ; N Dcroat ; B 16 0 685 662 ;
+C -1 ; WX 250 ; N commaaccent ; B 59 -218 184 -50 ;
+C 169 ; WX 760 ; N copyright ; B 38 -14 722 676 ;
+C -1 ; WX 611 ; N Emacron ; B 12 0 597 813 ;
+C -1 ; WX 444 ; N ccaron ; B 25 -10 412 674 ;
+C 229 ; WX 444 ; N aring ; B 37 -10 442 711 ;
+C -1 ; WX 722 ; N Ncommaaccent ; B 12 -198 707 662 ;
+C -1 ; WX 278 ; N lacute ; B 19 0 290 890 ;
+C 224 ; WX 444 ; N agrave ; B 37 -10 442 678 ;
+C -1 ; WX 611 ; N Tcommaaccent ; B 17 -218 593 662 ;
+C -1 ; WX 667 ; N Cacute ; B 28 -14 633 890 ;
+C 227 ; WX 444 ; N atilde ; B 37 -10 442 638 ;
+C -1 ; WX 611 ; N Edotaccent ; B 12 0 597 835 ;
+C 154 ; WX 389 ; N scaron ; B 39 -10 350 674 ;
+C -1 ; WX 389 ; N scedilla ; B 51 -215 348 460 ;
+C 237 ; WX 278 ; N iacute ; B 16 0 290 678 ;
+C -1 ; WX 471 ; N lozenge ; B 13 0 459 724 ;
+C -1 ; WX 667 ; N Rcaron ; B 17 0 659 886 ;
+C -1 ; WX 722 ; N Gcommaaccent ; B 32 -218 709 676 ;
+C 251 ; WX 500 ; N ucircumflex ; B 9 -10 479 674 ;
+C 226 ; WX 444 ; N acircumflex ; B 37 -10 442 674 ;
+C -1 ; WX 722 ; N Amacron ; B 15 0 706 813 ;
+C -1 ; WX 333 ; N rcaron ; B 5 0 335 674 ;
+C 231 ; WX 444 ; N ccedilla ; B 25 -215 412 460 ;
+C -1 ; WX 611 ; N Zdotaccent ; B 9 0 597 835 ;
+C 222 ; WX 556 ; N Thorn ; B 16 0 542 662 ;
+C -1 ; WX 722 ; N Omacron ; B 34 -14 688 813 ;
+C -1 ; WX 667 ; N Racute ; B 17 0 659 890 ;
+C -1 ; WX 556 ; N Sacute ; B 42 -14 491 890 ;
+C -1 ; WX 588 ; N dcaron ; B 27 -10 589 695 ;
+C -1 ; WX 722 ; N Umacron ; B 14 -14 705 813 ;
+C -1 ; WX 500 ; N uring ; B 9 -10 479 711 ;
+C 179 ; WX 300 ; N threesuperior ; B 15 262 291 676 ;
+C 210 ; WX 722 ; N Ograve ; B 34 -14 688 890 ;
+C 192 ; WX 722 ; N Agrave ; B 15 0 706 890 ;
+C -1 ; WX 722 ; N Abreve ; B 15 0 706 876 ;
+C 215 ; WX 564 ; N multiply ; B 38 8 527 497 ;
+C 250 ; WX 500 ; N uacute ; B 9 -10 479 678 ;
+C -1 ; WX 611 ; N Tcaron ; B 17 0 593 886 ;
+C -1 ; WX 476 ; N partialdiff ; B 17 -38 459 710 ;
+C 255 ; WX 500 ; N ydieresis ; B 14 -218 475 623 ;
+C -1 ; WX 722 ; N Nacute ; B 12 -11 707 890 ;
+C 238 ; WX 278 ; N icircumflex ; B -16 0 295 674 ;
+C 202 ; WX 611 ; N Ecircumflex ; B 12 0 597 886 ;
+C 228 ; WX 444 ; N adieresis ; B 37 -10 442 623 ;
+C 235 ; WX 444 ; N edieresis ; B 25 -10 424 623 ;
+C -1 ; WX 444 ; N cacute ; B 25 -10 413 678 ;
+C -1 ; WX 500 ; N nacute ; B 16 0 485 678 ;
+C -1 ; WX 500 ; N umacron ; B 9 -10 479 601 ;
+C -1 ; WX 722 ; N Ncaron ; B 12 -11 707 886 ;
+C 205 ; WX 333 ; N Iacute ; B 18 0 317 890 ;
+C 177 ; WX 564 ; N plusminus ; B 30 0 534 506 ;
+C 166 ; WX 200 ; N brokenbar ; B 67 -143 133 707 ;
+C 174 ; WX 760 ; N registered ; B 38 -14 722 676 ;
+C -1 ; WX 722 ; N Gbreve ; B 32 -14 709 876 ;
+C -1 ; WX 333 ; N Idotaccent ; B 18 0 315 835 ;
+C -1 ; WX 600 ; N summation ; B 15 -10 585 706 ;
+C 200 ; WX 611 ; N Egrave ; B 12 0 597 890 ;
+C -1 ; WX 333 ; N racute ; B 5 0 335 678 ;
+C -1 ; WX 500 ; N omacron ; B 29 -10 470 601 ;
+C -1 ; WX 611 ; N Zacute ; B 9 0 597 890 ;
+C 142 ; WX 611 ; N Zcaron ; B 9 0 597 886 ;
+C -1 ; WX 549 ; N greaterequal ; B 26 0 523 666 ;
+C 208 ; WX 722 ; N Eth ; B 16 0 685 662 ;
+C 199 ; WX 667 ; N Ccedilla ; B 28 -215 633 676 ;
+C -1 ; WX 278 ; N lcommaaccent ; B 19 -218 257 683 ;
+C -1 ; WX 326 ; N tcaron ; B 13 -10 318 722 ;
+C -1 ; WX 444 ; N eogonek ; B 25 -165 424 460 ;
+C -1 ; WX 722 ; N Uogonek ; B 14 -165 705 662 ;
+C 193 ; WX 722 ; N Aacute ; B 15 0 706 890 ;
+C 196 ; WX 722 ; N Adieresis ; B 15 0 706 835 ;
+C 232 ; WX 444 ; N egrave ; B 25 -10 424 678 ;
+C -1 ; WX 444 ; N zacute ; B 27 0 418 678 ;
+C -1 ; WX 278 ; N iogonek ; B 16 -165 2="?3`;
+R`12;1wR g:2 &L Na#ut'";%C$7t Ì84"6(8 8i0 ='
+C"rú≥"; Wÿ0ùq4$´†Ó l`Ûuue 1 B =`-11†T7t@6;8+;Cq-"; W$2î$ ˚(^(amecr/f [  {? -40`<r¶11p´HäÉ -q ;	_Y 3!3(L"s2c=de ; B2'± ¨10¶34( 47( 9¬ 23π2;¥S¯(2X·k ŒIl!tz%ÛiS 7(R )9`1§22∏ 6*30;C`6 9)EX!&0Ä1 N ŒvÈ2avn∆lÂ˘$30 !4†-Ù ?8):8º$;
+C :1' ; W^ 708†FfGr`v@†: B$!6 )14$w0µ88;1 
+@ -"; W 7q>$? Œ‡Dehpa$: B0¢(2 ∑08$&8∏`:J†0’( WX†5±00{!O ddobŒ*;"B0% -‚1& 431 ∫3 
+057¯ ;(Sÿ!30†+ N!Tw~sWTerinr!? F§q(¶ß1 r9<†647 ;
+C 2†ø6üx :≤!{ N Ydiesgs®q2+0s 04()±$)6:8"<7π;G 1(1 + S\058p0;§/U y`B #v -2•8"µ2 45p :
+Ép"∑& r C[0(7($]†j‹mw0c~e :0™(50P *U †74*;-
+K°-!! ◊!90 ;`O†ehuNcaremlcuth) C†:	†-1$ 49± 77< ;HG°-1 ;6_J$gm! "n≈o~oogÎ ª j 02$-161 ˇ1`662 ;JG 1`? WX05∏0(? N0Âcroqt±+)R 2 -15µ4∞ >83 ª
+S"=50 {ÄVY†750 ; NtxÚ-eRUa~tess( “ 11 -!º 78$6?6‡:=äCc!3!9 W|$454d$K aEdiÃ,a˚(B 42a•15 $9a"67&qπ
+J ≠Òb!VH,2¥† N(lCyvn ; B009$0"|≥!&;1#:â
+f`9(9`wZ!oí2 ;N‡JaOmm 	gg%n|†ª!B 35#}5iπ•7≤3†>66†ä`,±‡{0WX∑0!`s"o$acute†˚ B5rÅP®798 <9 3B`353&+8^Z 98  (N`|Ú·eeo`r† j µ8 21&8)±w06˜≤ ˚lJÀÄ- ><#4d• : N(Òdgta#Bdnth* @#≤@!=12)4?0$42∑ ;ÇS 2∞4°6(WX0#3= /0O†(gRaZe :(F !8, #15`8ê† -!HiW\ %% ?¢,Aeacpgfbª ` 1!0!2V  13(´-
+G =1K±Wò(F11("J(Dc0rÔÓ y J$12†`=9pÅ∑4 ;C†1x=";0YX 74 `[ O!kfw¯qmn(∫ A≥70)±Ï0ßñ±∂?& ?…`- ;
+O8@tV+"0$tÂ1ªerdan`; ¬`16@0 µ831>68;*G"214 9!WXd00 ;`Nbo„ÂÛgum&hE|(; B 29±- 0 1∑ 6∑ 3çäC-"t9°{‡Wrlw20 3`N
+n|mldÂ4; 2 164 4∏5 ±8"z
+¬ )9!ª Wú2∂2 §n4U|CaarsilcuÙ"? ¬3$(-±t45$x;2 ;	»W ¥0% ∫%Wÿ 61 ;!N EDgwtt";0)1∞ `187((94 *
+c -0 ; [Z 6449 0M|q„ron  B465`•1(4:7 601†?äC %1"3 ïT@,0¥‡$J0g`re÷e†; B`"x M2° u8`6µ"∏	C†89 o ^x`580 L`olEeEyruaˆ);bB 17!-?4 7P,">∑±b;
+C)3H0; UX 5t6†; N!S„ pdn ; F 42 -q4 t:≥`( 6 ;
+A@=1 ; Wx0µ6 ;∞N Rgm˝+AisAWf¸†: ¬"µ&$ù21∏`591 7¶`ë
+√ -1`;dw» 3≤;("J _y}fÊAr˜mMqqv$>`‰3|%Ì;‰ 6êπ 8), 3äC‡1W63 ] 00 ; ^ fmgÚei`0 }7 #1h1‡676 :
+C@202¬∫#
+X 580 ; M†we≤r6t";Év 21 -°4&0 278 {äC <0 -3ﬂ
+ >6; lEKsaÚOo 2 B30§Ì74 ∂33&∏86†;-¡#49 :†~X 40a†+"O Ugr·~%05`G π 51 "479$58 [BC	)}13(Z 45c ;† rAt{A©Ï + ¬ 2$!&8(µ50 ≤80?
+√ 1`92á[ 7Ç≤®;`H∞D'argd 3)F`&(ê v\5!8>>!+-S0-1†; WX033`ª  eOmy· ccjd+;+B 5#-2®∏02Â@µ7P ;	
+(9p8 :@\$w2 ; F Fti$fÁ ˘ C1* -1!@707(*=pp∫]N`24≤(;»TX§%00 ;°o|ylnE ª§BP∂ôb-1!700v≥¯0?S0-q : WŸ 6/7†:≤ ^#Ôe˝¡efeÓt"≥ «êQ7 ){®&u8 62$_[F!1 ;0Wx¢6s `z`N ‹cgom!$·Kel| ;hc1;30=39p 1q:,42 ;Ì√7qôµ ; Xw:z ;8N√palfe´0Ä 0®u0.%x5‡:-
+K19± ;"÷X+óZ2Ä8Ï"@ovn`k ; N†7,-365 3(!774Ç+
+†!=w ? WX032*q+ n Ari>d0z b(1t`0qw0 P9:(ø- ®211d; QL 722 8 ^ ^Òyl$mª B034+-1¥ (>$®78Ú;K&5<!z!V\ 44 ø¢N)˙D/ta„saÓt ; H!r601∞4!( 627 [àc Q; Wx$&01 õ( Dcqro;†!q2p0"4π?()y6†;-c$,0c3ÄW\35%c†#I+ÔoNÂk`~¢Rp18$-16 '0} 66≥ zBj-q { WX05480;#Msboemagcg%~t ;®B 7$Ø68$505 83 ;
+C®-1  Wÿ 5660õ N"miN4w±$∆ Û∞"Ñ57T  84 :çJK`20&+"_‹Ä3;3( N$airkUi˜luX ;#H 1e!8aªÚ |∏&";A0-© :@WP"70<0;!^8ƒGaVÔÓ`30C·Ò4 0$|89 674 ;BK -1∏; GX :#†;(N4[o-eaÁceÓt!; BÄ1“†)9 ≤7= ? =I
+A(172(? ˜h!)77 ;h nÂÛoihdgV + D$s0 ≥0>2530 (40+	[ z¥6 { W}†500$L†oDiepgsÈs9$J )4-0!4700+9?!;	B 0r ; H 0pª   die2Â3yc;4f1È30j$7"v>3#{
+C¢Æ1 (†\"449@s n Dmttq}eÏ ;"B )2 -S 7"54S$9M™C$/1h{ W⁄ 40 ;8N gaO{oy„ccgnd‡+<@ r8`:18 4u1 ?4)52B 00 ?!”§5121;! gxF ; ¬(39†/7∞A¥?∞ &π60ªZC158,;!Uy"4 ¥ c4Œ r„cmn ª0R†`? 8 ∞1 6#$ jC 11í9 _XÄ5∞0 '0Œ ncœXMÒascen| y G56 +258<94 460±#-c Q(t`3†wX&306 ; N {/as}srh/s 9 R %7!670§2∂ «w6$;F`510W†2q< ;†N aecsben$?(C0∂°a 2?1(28%8;C(1 ?`3H!121 3™_ MuPof; Í 0 2†)!∏ 2a.dAXQrMCpracc+Sıa"ÊCEsj@iÙcStirtKD;D—Û)Ús 4p∑K
+KPQ$11 )î0
+ZpX @ C·C}tb )<0=
+KPZ$¡#I”!bon =4-HPÄmÂdi†nc!-50EäX  1C$?$∞]ÀPH I GcxecEP›¥prX A^cnMma@aKefÙ%40	ZPÿ A O$!5)IG\aA E`Cu5ei-•{X} A†Lbhrae.lwx Õu0-C\X`@ OTjEresiC -5WB_PX ¡*Oera~! -µ5ÀUX e†Nhend-r=-de1<"≠74(“Ÿ Omaazon*-1⁄âRY¢E0EsŸash 7JPZ U(Ôtilde$/%π/
+KHR&@&S0-u∑
+ÀPX1IpW®i1µ1m*ÀL†QÄ◊c·rol0%®5oRZ A"Tggm»#ackÈnt m°±q"[hx`E0U -ı5i
+KR–([!RA'ate )55
+\h E esiÚcqÌf0az ie4
+K–Z HiQGImrlsh‚(=3	HKpX A UoqIVe°Á5	CPZ A ’jÂ&7#rum|aı}`-±ÁK`\†` Du!cem.!/75àKPX$a"TÔgwlk -55KPH C0GZy>'"1M
+IPX‚É t-3w5ÕK@X "W =9êNJPò ¡bYÊ-15àK–X$A#ŸqcttÂ0%101kMX`A Y¸ievDc)s#%505ÌJ[BX0 ·5g‰arÈcmv -11KD(a!V*≠34
+K⁄X`ht†≠;MKAPÿ,Q y -"JTí $yq#4t% k)≤ √TX A`Ydcepm≤ks(≠;2
+ÎZÿ8A·cuf-`i ;68ÕäKPXA!sute∏œa·utm000
+œRX$Aacetq"C`aroj(-4≤OPÿ`≈ÒcwtE GbÅdÈm˝q %%:…KTX AB{5ud G#o40CPÿ!C%Cutu Fbpefe$≠<pKQX8e#wtu(Gao}	a`Avent /=0M™KVh Bagu|%!Z$<µ7D
+Kpÿ `a„Uv``œeo]ta"/µ8JKx†eAcÌ~aÄKs≈0cumDhaÚ ,5∑K–X1DebyepO‰)uˆ%ÚKs -u%[X A`c1|q2œos„Vg ,=5è
+R| AacuV%`À¯uÏg!r„ÌlHe2 -55KPH AiEutU Ooqcznf -57
+K@P&…7A’pa`Or|y#``)55ÿ¢Aa"ude GtkÏdd"-57
+
+
+Ÿ`CaCdto U0-=
+I“\#`qb5Te(\ -Q%1KPX(Aacute PKkrol$°111-JP`¡acUledTcÌmmM)kc'Ôf0L31OS¯ Q¬gwdÂ!u†-55
+OQY CAcEteUa{ut`/55jxP(Ai`uÙe Ucmbb4md,e< -U0
+kPX0¡A¢utM!UdmdÚekw }55ç
+KTl!ACkqP‰ Uor!tE"-$uSrX aij5pc(hu~gp2uolaux/5O X!Eai}z%°’m—#rÔj*-5uçÀ@P AccuveHW~«OnWÎ#-45e
+kPX0Ba"ute QsÈgX%ø5,
+K@X AaÁΩ~l`N -s=	py P1wu0"V`i:*	JKPL(E@cutu2Ÿ`Ì38ÈpQ`A##5uE!YieQt(=12
+œQT Qab}t‹ Xdierµs{{ ,S04K\‰Mc1t%±·uter·Gl5!-+11 `pY0AgcV4m!v2-+4
+HX A·Éu5u"{0≠õ6À@X"Åa+eue0y®#90mKOëZ adsuc'Xa3Òpe(=1*J@XdApcaug∞yhma2esos$-9≥
+K–Z%@brg6d‡√3<NcPZ A
+ra|UC‡care -º0* –X£Acrva!Caqpof $0¶KpX`A"rgvE‡#cedÈnna,m<`
+KPX#Errw7g`K"≠8 ç
+[P[ `brevÂaO`rhva†-$pãkYY`AbR‰ve†Gco/m·iicune • 0I* pò Afr‰v˝∞&=Å-6ãP‹°Arr`vs Maa5ta*-5!
+KZ B0¡vm!OaIbiWuvhex(%55JKPX0¡bpev70?bia@eSis-5=ç€Sÿ°Õ2r`f%DNvy∂% <75E(kpÿ†S26Q6d‡ÀxungyÛım(aef πΩ%JPY†IcÒeve Fm2„&on§%%_…KP\0…revÂ(Wslc3) 6uKPZ`Ibra>e otMÊ‰w ,7$	*PX Acrwv% ·†=µ5ÀîX≤Aj2!vmpU`-ï!3M
+P AB4Ms` PcerÔ~p%10©€AX`@b2lwt p#omoPaÁcElî4-q51BÀ\HAHr`v/+4-•7.KRY$fR%Vu†U%c5te %w4-
+KpX@AjReÙe ’civr}Ìnley -5=IK@X A"pdtl0UeiegiÛ!)%ø
+œPx!A"rewm Egz·ˆe -5%
+K÷X Ebbewe`=ng`Ú7m`a|t(-=}kp Ab~efd T-k0g~ -04ä∏H @B:E&d"UÔo.ui(-=KKPÿ`A·3E6e$_2lwg†m≈5
+KPX cnzeÆk  '6KpLPPÛsem`7  90oK»¿√gÚÂfA [ -3pe…KKp$AnreWg$âcc}te$lp±ÌJ[PZ(akbevm …diD2%rÈs -0%ãÀXh`E`2EnEÒıwu‰riÁh4Å-∞±!
+[Rò(A`WdvQ s Ì+ÑPX "rew%(u =2äKPH Ebreve y†-?:KPX CfR$˜m(y(^ıxe -9&≠œP e;ÚeRe xtaÌ2uyJ3 0{PX1A#irgWmbLgxxB`%t≤
+CPXbA1kRkemfmeË Aa≥ute∞ø<
+ pAFI2cumnÌex Cc·2m. 40
+KPH Cci{caen'q cedh$‰1!.¥0MÇJPxAc	PcumÊ,e| C +41+KS\`I„ascÂIeÏDx!Vb˙GvD $0KX\0Asircmg|eZ(GaoNm)aACmjt -∞
+[@Z$ECyvbtjÃlu`.N8)55
+√RX!@Ch2cuM?>gy Oa{UÙu µ≠v
+Kx A3*rcuHgL ¯6OcIrcumÊm%r(-5äZÿX0AbpskuÈglUt Kfhermv)G -55
+kFH$Abirb5epldd&Ôqr1fe -=5
+PQ!Ea)T;uef,ex OxunÁ·vwmnau|+,5ù
+KX`Abi„1eflBpÑKmark> -=7
+K–ÿ!AcËrs˝mFÃ%i†|cÚl(-µ7IQX"IGÈfcumdoa¸ Okl$G`,u=BCPX!AciRcuMÊnux q 9u4jOXX"Skp„w}$le ‘(Ø125*ITZpI`2kT˘b\dx*‘carbj <`±ODX(sar`qmfl/x`Dc/mM1!ÁcmnÙ(/!51
+ÀVX"Acqr#wm˝leË d$-75gPH$As…raum&Pg|`uaKetg$-5¨ATX8agiRsa)vd°Z QbmrfsE&,oy %55KTX Qa)bcumÊla: ]EÈA3gSis =7=m
+GZ ¡qinbEEflG¯`UGpaˆg®$57.*O\x$!cirrumvlnx el]loaxe-l·ux -1€PL(c˘3c}mfLdxTmgcÚo^-4îKP\AckRa5Ïf-dXi\ndØke+ uKH\(Ekirc1mfl≈h!’ping(%6uKPx,A#irbumf|] U a3çKÿ¢Aciskumv|wi s ≠8(à	X ic¯rcUln(A¸†I d(0.KUY$`cÈrsuob(e˙†Si#qTem1|
+[QX°IAk:Kek‚n!z IdimvgSiÛA/515
+Z@X†AcÈr{vm&‹!h@quNÙeryg(t†.5q0
+ÀP…!Ac-rcu-dliÿ$ˆ %=
+K@p%Aki{cQ-Nllx ,1r*KRÿÄi3}rsuiÁldxqx -92ŸYx ≈„irs}Œf,Vj$¸!√utg"®π2mÀPP A3)rce}fdEz†yey¿2es+s %1∂
+CQ\ QdxÂvqÛÈr(C$->0 @TH AdIds‰ci;C…cu5a†-t<KP{ Cthures! Ccav?$`10
+K–X0Au„ereYs C uD)lle -7®MKR I@yÁzusisoËØ&0-
+K@⁄§`dimr≈3iq ‚qeÚÂ(-<3ç
+O@Q EdiesibÒsÄGanmÏe·„cGN‰°-4∞	 KPY"@EkEqEsic"K -u1]J[PP @t·%≤evis`LeAıp%$55çSPX Qd)eresis"N`!rsm\flex‡-ı5ÃKR dmuzm[	0DG‰1esgqis -5àÀPyKthuÚesis"OµzaveÇ.}ü	
+KPX†A9qÚes!{1KOqNg`VwÈlauv®/1µ
+KDx ¡d-EVmsi~ G%assÔ~-°5*kT⁄ E@yerasiR*O„|%ˆh ,!µ⁄KPX EeIERa”msi4y$@g*§=1
+BX Qdidveª;†Q`)/5KP] AlÕÔr%qis ‘'-1±*KPHdke2gsIu$tcarn&&-±1!À[‹!A4ia2eSh≥ TakmehMc#emÊp-1>0ç´AY ·$)E2e2}ceï /7
+KTP EdiÌtci{
+ïac5-H•W5â
+KTX±umiW`Gi€1Ukhpcwmfle8!!1˜úiXX0Id-tz!sis Dd)gn%whs)-5%*kPX#¡d)g‚dsiq Ugr·rm=u
+…XX"aÂmOxa{hv2Yz5ne‚rdel„54`95-ä XX da~esiqbUm˘srm/q-ø0äITHiƒheresÈ3U~gÓnmk -5O
+KQX!L§-ez·˚kSÄurÈn! 95MC@Xp¡daupeso[!V -135
+KP\ Y$kErÂ≥ks W Ω90 —X CuJevdqibjY(=1!çjRX Òbadrg
+)q aiıÚe:)11	+i@t d)%r?ˇ`s YdH%Sgsi10-905@
+kH°Au)eÚasas aUoturiip-51	OrZ IUmu0a[kr(v -{*QZxA`˚gb@Ûh3#˜ -9(M–– ¡vidæ7siCs¢o!è
+öQX(¡t-er!is y@cuyÂ`-1í	(OQ)E%}lzg”;1<˘$kerD„Iq -y6I(cH$@pif%†C /è
+cX‡AeÛ`re0CÅcudq m44KPP!egraV% CC·2ÌN1¨40mITH  g2a~upccedi}mÒ8-Ù0äPX A6baÁg`W*-$∏å
+[êú`…grir% %brevE'40*IPY ¡gri2Ù0g}la`ÎÛen~%42	
+À–X#Adwsva O0-5
+CPX$fP#V1icgta 5àKv\!@g2a|$0√)|c5l\,%x )53MXX0ƒgrk‘Â!Odig2gsiz(≠5KP`AgÊ!ve Nc–`~m*=1µÖ
+JPX IÁÚaveOh’Nw°r}lhAuv¢-55≠*KTÿ Efr`ˆ, M·+rN&†71öKXX$wsm6e Os.„sH!È51	
+Kêx§AwrAvw*KthÌd-†%55ç K–Y"AGcitc YÄ%7=CX"&RaVa ^ -8	JCÿX@%paZg \#qqj~(çπ0çäK@ÿ cercve†Vcnmmgqcseœt&≠q11-Kÿ AGR¡ÛE u!-<JK–HDE‚bavu t0cÁve`/të*IY\∞/r`ve ugËrvuFlep†-%	´OPH`QG≤ate]DÈgseWis†ew5MZKP\ Iura6E$5grit| m4µiVX( gz·v`a’iung≥zg%m`d5!-u5JZ†AÂb√te)Umacroj 5Q*Î–X BgÛew] X-gG~gI$µwåXKX!AgbgfÕ Ur)ng)65*[ÿXbÀCpave!ƒ -Ù!5 K@ÿpA'r·fg wpÏ ∞	mVP*AwrEv% `-1l
+kP A'Ravm"—bcuÙ$°1∏Òç
+	PH$ac‚%fm ]D	dzeqew m±05≠[Pz AgravE Veowezygy|,41
+KP Hg3iVe f-'4
+PP"C'r$ve!w!==2úKPX$A´ÚQv%$yd91	k–]£c'R!÷a`8q'uˆe°-7
+H@X AWraVa ;dimsdc\S 88M
+√ÑX NawrÔn(C )4#-
+ZŸ EmÒ„r˛n0√acq!dê-∂0
+X @maCrg. Ccazon m7_¿ Ama-r'Á`Bc«4!.l!†%0@âJMRY Il!gpo. S m 2KX …Ìa#zÎh`œbre4e40KQ\0AjQs2ol`E{m}a·ccel¥!)%<MKIX magrf$œ ≠55I@X¿Maro.(OiSuVu =µ4àÀrŸ!¡mIcr/o Ìcavcqmlluzd-ï%
+KPZÇA-k36oÄ?FeÚmsis†51	
+OPH°AmagrO~ Ggsavf -,5«
+k@P AoavRÌn0NHu.Áar}-ba’t/=6[Px Ama#RoN ŒmaszmÓ -p5NLRX(¡mAwrkn osm¡2x†-4äIP0cÁa„zkn"OildoÇ/7ΩGPX†cqcÚon$q"	5M
+KX\(Alacpog<TÄ-11ÃJOPZ Ame#ron`T„arÔÍ5-111çBKP| YMac2oL ÷cÌema‚c+fOt !!15KPP AM„ci~‘ -5
+KD¯ A(Cg≤on0Uicg4e -u5KPZ Amaz°^ UsÂrcımnle<6I5=LBÿ"a}`#ReÍ$Q$ueÚƒsis"=5å
+[PL AieGzfÓ"UÁryte m=µ
+JY I%ec2kn Qlu.cizuÌ,gup(-77è
+Jí aI%CˆOkÄUaa£ÛoÓ0<55
+OPX AmAcboÆeTGgW˛'k -==,ÿN Aiacvn~fr)n& -5u]KzP —/acrON∞T$-11ï
+KpX*Am·rsÔo†W=90Ö WRZ ‡sv}o"Y05`=-ÀYX)!mac6laYÎn}TA %105*‘(IÔi„rn {Â)mbdsÈc0k06
+H,CM°Cs?jhaufeeˆiwht!=q11J{—T†Qda„z/n v .'¶çJP\$IMg1Ô&0w†34	
+[Xÿ†cmazon xa-1Z–x@Axcshn!ha#etm -92ç KPX4QmCgbÔÊ!˘gª5rw˝qs‡/y0å [XX(@Á.mlqk!E -60
+Àj0AefONe; CC'et``-40KKP Aoson CBhpkn§94ZEŸŸ m/EF%Î !¡lyl|aÕ68çãKRX`’ÁgoO£ « m$0kPP CoEon%k G@re÷e($&pC’X8Cgwg~eka«cOÌacccmnt$-4
+JSX)`oconQÎ K <uı	ªBP\0CÔg_ne# M`Wuxu$-=5
+KPX$Ag'Ôoa#4Naipcuo6me|!-5%*KPò"Gm.Ik(K,Af2eÛiS)-	öŸpX$	oˇ-nak Ígr!˝e -q1
+CQ``ggknek"x5^f·vµÌd#q• -7!é…– AOg-oek akrofp.5
+KPÿ ¿ogmneK OrlqsH -µ/IQQ®IooonUc2D4|pg0-55-àVZ®¡ovoj-s \*=5ï
+Sqx`Ao%ÂÍg ¢,119
+KP‹‡AkwonmÎ(TJabnn-1Å5äKP –/cmÓa+c‘g]]eh#cind!5π10
+k X!QOgLnao q!-5ç
+K¿»$oco¶gk#uacute"-5µnp@ hwkjn'K!sarb}Ìf.mX†/54M
+K @gfÙ/bUdim:eÚ!{ (52.
+[PHI≠gS.Âc Ubv`ve†-q∑
+KP"Q-go™qc†Ehwngev·mllu‘2l55
+KPR‡I-.onmk!]]a„2oÔ 55		K∏X0Aog/h%g ]og´zdo%}%%J@\!—m'ÔÔek"UpanG ≠e5ùKT[`eoggnik F!-a2ECF‹` ogo~e© W"-95™jPp¢Ajdgnej [ ,90!MBPx0Aof©&≈keYa'uTa -5
+C–Ÿ AggÁlWi Ñier%cqw eq= kPX#]oŒOoe+(suNv<{ieh|`Ω11-Jc–h0EomoÓea(w ≠w$	KPz‡EngGne+aw -%3àOP\‡KOw^fmi@y $=2-
+„PX!En˜n%À {abU6e Ìµ	O@X4A/gonck0xT‡erÂ{hsb,%3âOThdAJngb¡"≠40
+kX BskNg,Cec}ÙE6/4
+Z`H†AbÈ'*Wnlrkj,-48ç
+IXa≈zenv"Caed/lcÑ)40	KPT¨Qwi.g D`$4 KPX ARiN' WJ`m~l -R2-$KPX0·ÚGnd†comaai√kenÙ¢-î0	äKX A˙xjg"O$•55-
+KX ar ng(OaAu|§ -50*orQ(Aron~G3!z„reÊle¯ 75
+KPX K2	ndkO$imR}sis -78»K∞X!Eri´gOgr`tdp- O@X Ark?g¢OhUlgu"qmlETt-6K[–X!¡Zi~ˆ OÌ@q‚o^ -15,Ë√PX!KpaÓÊ$OÛ.ash§-9+K–¯(Erajg Iuilde -51	NPQzmÏw @0≠±5ãJP‹ qryoc Ù e103	
++AParm|gDTceÚgn m!síKp~bilg9\coÌ=mkgcuv4 -1P3 KP\)ef˚^o†’$,s?
+KR^ âriF∑"d!cqÙ·0=µÀ¿\$IryÊ˜(QsmbcıÈf~mËf)∑E
+@x0@ryÓ' TfieReQir=%
+KYY!àr@nw fbav=u5KQ rÓG@hun«`¢uula}u 9íJ‘X ˙Ì*gGOAcp
+`ï5
+[X AzkÓo QkcKnE˚&)0WàK@X!IrKfg.rijw(≠Ω0 ÀX†I2ang$r 035JPZ ëRcnc V !95åuK T(AÚ)fe& '!8Ωmp@!IsiÆ& ≈csutl =!0uM
+CPY Erhog†QdImre{iÛ -101ã–\( pyfo(Iuk|Ásifip)o91
+KLX`A2igg v¨-=4	BBú QRn.gv`-)∫
+BTX H il')i '9"
+CWÿ Ar„nw8y`cutÂ /92M
+KXX$AÚiÎgY$IÂbeshv$-π2å KP!Ati~d‰†C -$vEJRy PT`|Èapic7Ùe 40M K–X ¡TiÃ`e cÈrœo m4
+JQY"@tilnm‡GctdkÏlq $0i
+ÎPHl≈diLd·‡« -40
+KPò`!tlZ}`G`pÂv}®?1)
+ÀP»‡AtihDegkoMmq`sk·np -80!*kqX!ATIleejo†≠7=KQX!AÙ·l·e†NEfıta‡54ú
+KXX EÙ{,He0MkisguM&úÂz i$=œ0T!@uide _dieresIs(?5?
+APZ`@|ÈldeOwr)v% !51*HQx Ae}d|· “x}nÁarsMlp·t µ7,J`¯ A`hldd$maCvoÆ -7–
+OP!AwsldGê?3,Èr‡†-§µOcPY QtÎ,de Odi(ddh-57
+…Px¡Ti,de! ≠55
+JPX Huk$Ù- T0-115À@X$aÙy,ee`Dcaryn(-q*KPx2”xiÃde¢_K	|ai„Áajt 01±Xãx®Evih$e0S ≠=4
+IX`Q<AlT%bO!ÚvÙ% ==ï€P √UÈ~‡E¡’SirbwmflEx %5:IpY tymde`U‰+dpasis %51M
+KRÿ0a|Ip Á)]g2gta"-1%
+OX0Eti,ˆUHUhungaUm|cu4(}5µ1
+-PXÄ¡6iÏd‡ UÏqG2gn %˘1EKVX AtiLde-QÁ%n·k$=4ï(IëY(Edi,vE&Ù6)~g!)5ï=ÇKPh Aum\oepT$,1#6ikxX ¡w)l`e w†-=0JKzX#AdØ,Ùd Y¢-p
+	@X%ViÃfg XacUpe*Ω18?
+KPZ∞BT)lfÌ Y‡ilrEskw*=185ÇÀPP!√wi¨f%`quntgvhCld )1>9ç
+KpX at)E%h VM7t]k\ ApÈl•e(wpy.M KyaAtilDÕ#9 -92YPT euAldo yqg}uÂ!-9;-(C–˘(@¥I|d%"yeImÚebi˚a-πp
+KR^"@`A 5
+Õp&C —bkdte.-7=,jKUÿ `@„bevg -==
+I@X R&ÅcirC$m∂Lf|!=ó7
+OPX P†@fÌeÚe[˘38$c5KTX BU#base0o>5ç
+k(F@}!czmÓ o33
+SZ b0EomoÔk }3µãKX` B @Zine"%
+KPXÄB E~kld‰ ≠∑U"OPp C  -10ëX±X®C(GAjvbe 30
+KTZBaîciÚcuÌf,≈z -q2K–$b2Dfaesu—is$-10- KpJ BUg4Ave!#;=kPZ"B ’iunÁjvullat`,±aK`X§b ]iaaÛOn'%90KPY @†EÔ3O,m  0JQX!B$Urlngh,30HDX D!A -64çãBTP D Aacu4e`-t
+KpY Ã"A"R’2√#-40ã™KpH∞D AcIPcwflEQ-00K1 D$e`y}2dsbs,≠4 :HpZ,D EgraÊe -$1KP\ E mCcp+j†®•∞KX†FAvwfmej ,4≤;OPH ` AsyjÁ!%41@KTL  A|Ïjee -5à;OXBD ^¢/08T‹`Eau -38å`OÒ\0≈y m4B PX !Ÿadu4a`mu0
+K–z&D ]`lesÂsi{†ç}7ZK—ÿ0DcazOn Q -42MpX db`2O: daguteb)40
+kPL$Daqv-. Akruv%"52M
+KTZ"cyvÓ&@Wiıcuefl$x 49â
+BP8"d#`pÌÓ0C‰I∆r≈€mq(}<2ÂÀ[P\bWs°won®Ag‚AWe -t2
+–p DgqrOÓ oe‡o&`-$0
+“H&DAarON8@Ogo&ac )5±i«—P0Dc`oÓ QxMng`-6pç^êP D‚q2Ôf @pimda`-0
+I–R$DkaÚo V -4pØCX DoEÚij R >;0-JIT	¥∆saÚcn Ÿ(,%5•*cVX(Daarn(yÅBe¸a ='1
+KTX DÎ·R/f ZdI%Ê|˘iR%-$5
+K‡ ∆brgaPQ -<0â+X\$`#so„t$AaC}de°-449zO» DC≤bad Aj˜gvuml≤EjÀPX @WzOue.Aairculdlgx"©4<
+ZPH$Dcrna¸!diÁbd3iq$-48MJz∞E„rÌ p Q'r%ve =4KPX∞≈*RÔap MMabpo^(=0äK–\ ƒcrgQt$LÌÓoÍ#k 4
+kP‹ LkrOa` Pi~G-m40OKTP¢D„boa4`ItImde %21OPXÄcro„t÷ -Ù0*KBz`E±2oiı u($3≠
+KPX(Cvoat  -5%	K–r 4C2oat!Yaaetg hµ?JKPY1Dczkh– Yiarmsic#-KP¯F,	 -6KPX!C¥@pstpe†'¨
+KQX F Qfpqve©-∑7
+K–»*F aib¡1-/lgX m74
+kQ[ F@Il3abe{)s m'$èÜKPZ0B0AgbitÕ -70	(kx$FÙ¡-·{xOŒ"(7tÕÀQP ∆†ÅGfiÓui -$*TX!E ¡rinF"-6<
+CPÿ F A4il‰e ¨74…
+IP\,N a"-9$KPX Ü A#c}ˆÂ1/15çâ€PA!T1·bZavu -05
+êH$D acirGgibdEx†-1qKPH F(igyeb}sIs∞=15KàCQZ&F Acra˜Â }1wPHafÄcm!Ájo -35ZK\H†F$aogofÂc -1ı-	A\"V aÚ)f' 	q7çÀPX!F0e|alde-2MKPX(G @omm· ≠*$-
+C@X0¬ k$-17≠kX1†mac5vu /!4	LP\"/`mÚsıÌo,eh ?q5*KPX £dyi2Âs)3§-ë%’äK\Z0B§gxavg,≠∏5	
+ RX!B ex}Íga2q◊,`5Ù -saKTX N ne·crO? -'1
+KTX*F1{wdcsh`π=éÀPP(f`ÔpÈ,tm ]3u
+QQX0 tTr·ob!*81
+ORX  (∂0 Oÿ$K`!attm"m$P[Lÿ J C"rmnePm64çZP»‡J @cirwumf|H -60jQX0 Cdie3ewÈs -61À Kpp  AÊrivM!-& 
+I@X1∆0QmacRÓ(-$0+Kt@ n!AKenllK!m60KPx J Ivl.g -0 KXb,Ùijee%=2M gFH G N -10 [pH)C0Nl!utef-#r-
+OPYbK$oa-6#umn`ux†-≤0-
+J@\ I"Mfauz'[isy-Ò∞RP K(OSbava0-30j¬PX‡K1FHq~f%¬u<laUt -30mJÀXX†C`ia#íg~ -'8I
+O|†C Isna6x MS8zCPK1K OuIÃteΩ≥8KHx 0e!=z7
+KPY K dÈ„uta -2/kA8 Myay'G¢!:¥
+Î@±[†ec~rcUeFlh|H5?
+IP»$+%dimbOsi3-05O
+·SZ K$e`otacÂeÓu¨=2=JP\$J†·orhvd†-2a
+kPI¢K"%ga·rm_ ,6$çOX K$Dm%gneo /25
+pH J } )21çäK0Z K1+cc}dı 53$K–X0k0+¯vs’ÕfHkXÏ-≥5
+Rÿ N Ìdiareqks -#
+OPX"C mg;awe1•äPX‰;†fhÂoWerum.`9Ù$m64[@^†k /A„Úkh,:Â-
+KR0À`s|aSh$-55KP\`Ij5ImVl•=16
+c@XbK$5 -°5MIÀR"K)·;aTE9,#5-KX†À uqj ÛÕd}≠¯ =1µJO–\1†ud)aÛmwi1"-05JKpX"
+ uwr·vÂ°-?ç
+I M0ı(u~gcRÒm}au"+1oYL0K qÌ srod):jQX$G ı}f/LEk©-1=>
+QZ K trinU05 K–ÿ†"y*	#5
+KÄXBC0{`caqe‡925BT O ydÈws}siS#=∞uJKPX£K-}m`ag#!J% ≥=#åPX"Kmmmaacc5nv O!cuTE =30k!„mmaa3kunt`Oclbc]mnHmX°/;4
+S–Y( Co%yaaaCdj¥ OdierEqi;§-30KPH(KCKMmaaA¬%ntO#vAve -30ç
+[P⁄iO!o-ia„ccenv Ohuzgmrïmo†g4 -3v=gPX!Oc-}qabSent†Macbgn -°èKP\KÎoÌmqacs%mt`*rna("m;2MJO’Y#Ksom)akncejq _4iıDc "<…kPY s6lÌeeKaENt e8-25
+[ X Kbolea·c"gÓt dakw~% -0
+OXX8K‡gÌh·a√beﬂt&dCÒzo^"-0;
+…RP$o„oo…c!Âce^t(eCkrÁtoÊ,gP -2%
+KPX CSo-oaaccdz edie2EÚ)S!-23ÀKPP¢Kc/Mmaaccent Eotckggn‘"-65ã
+KTX®Cc7udaac#ej| ÂÛQt} Æ=
+KHI†*C.l,a)gcm/t†c}xc2Ôf 2M
+KR(√ommAIggn``e~.[Nei %27/
+[iH"OcÔÕ]qasaen~ Ì -≥7
+[tX K‚omu!¡Cg%n|†n!`uve(£5k–»,KanmıeEccent ocircumflex -35
+KPX Kcommaaccent odieresis -35
+KPX Kcommaaccent ograve -35
+KPX Kcommaaccent ohungarumlaut -35
+KPX Kcommaaccent omacron -35
+KPX Kcommaaccent oslash -35
+KPX Kcommaaccent otilde -35
+KPX Kcommaaccent u -15
+KPX Kcommaaccent uacute -15
+KPX Kcommaaccent ucircumflex -15
+KPX Kcommaaccent udieresis -15
+KPX Kcommaaccent ugrave -15
+KPX Kcommaaccent uhungarumlaut -15
+KPX Kcommaaccent umacron -15
+KPX Kcommaaccent uogonek -15
+KPX Kcommaaccent uring -15
+KPX Kcommaaccent y -25
+KPX Kcommaaccent yacute -25
+KPX Kcommaaccent ydieresis -25
+KPX L T -92
+KPX L Tcaron -92
+KPX L Tcommaaccent -92
+KPX L V -100
+KPX L W -74
+KPX L Y -100
+KPX L Yacute -100
+KPX L Ydieresis -100
+KPX L quoteright -92
+KPX L y -55
+KPX L yacute -55
+KPX L ydieresis -55
+KPX Lacute T -92
+KPX Lacute Tcaron -92
+KPX Lacute Tcommaaccent -92
+KPX Lacute V -100
+KPX Lacute W -74
+KPX Lacute Y -100
+KPX Lacute Yacute -100
+KPX Lacute Ydieresis -100
+KPX Lacute quoteright -92
+KPX Lacute y -55
+KPX Lacute yacute -55
+KPX Lacute ydieresis -55
+KPX Lcaron quoteright -92
+KPX Lcaron y -55
+KPX Lcaron yacute -55
+KPX Lcaron ydieresis -55
+KPX Lcommaaccent T -92
+KPX Lcommaaccent Tcaron -92
+KPX Lcommaaccent Tcommaaccent -92
+KPX Lcommaaccent V -100
+KPX Lcommaaccent W -74
+KPX Lcommaaccent Y -100
+KPX Lcommaaccent Yacute -100
+KPX Lcommaaccent Ydieresis -100
+KPX Lcommaaccent quoteright -92
+KPX Lcommaaccent y -55
+KPX Lcommaaccent yacute -55
+KPX Lcommaaccent ydieresis -55
+KPX Lslash T -92
+KPX Lslash Tcaron -92
+KPX Lslash Tcommaaccent -92
+KPX Lslash V -100
+KPX Lslash W -74
+KPX Lslash Y -100
+KPX Lslash Yacute -100
+KPX Lslash Ydieresis -100
+KPX Lslash quoteright -92
+KPX Lslash y -55
+KPX Lslash yacute -55
+KPX Lslash ydieresis -55
+KPX N A -35
+KPX N Aacute -35
+KPX N Abreve -35
+KPX N Acircumflex -35
+KPX N Adieresis -35
+KPX N Agrave -35
+KPX N Amacron -35
+KPX N Aogonek -35
+KPX N Aring -35
+KPX N Atilde -35
+KPX Nacute A -35
+KPX Nacute Aacute -35
+KPX Nacute Abreve -35
+KPX Nacute Acircumflex -35
+KPX Nacute Adieresis -35
+KPX Nacute Agrave -35
+KPX Nacute Amacron -35
+KPX Nacute Aogonek -35
+KPX Nacute Aring -35
+KPX Nacute Atilde -35
+KPX Ncaron A -35
+KPX Ncaron Aacute -35
+KPX Ncaron Abreve -35
+KPX Ncaron Acircumflex -35
+KPX Ncaron Adieresis -35
+KPX Ncaron Agrave -35
+KPX Ncaron Amacron -35
+KPX Ncaron Aogonek -35
+KPX Ncaron Aring -35
+KPX Ncaron Atilde -35
+KPX Ncommaaccent A -35
+KPX Ncommaaccent Aacute -35
+KPX Ncommaaccent Abreve -35
+KPX Ncommaaccent Acircumflex -35
+KPX Ncommaaccent Adieresis -35
+KPX Ncommaaccent Agrave -35
+KPX Ncommaaccent Amacron -35
+KPX Ncommaaccent Aogonek -35
+KPX Ncommaaccent Aring -35
+KPX Ncommaaccent Atilde -35
+KPX Ntilde A -35
+KPX Ntilde Aacute -35
+KPX Ntilde Abreve -35
+KPX Ntilde Acircumflex -35
+KPX Ntilde Adieresis -35
+KPX Ntilde Agrave -35
+KPX Ntilde Amacron -35
+KPX Ntilde Aogonek -35
+KPX Ntilde Aring -35
+KPX Ntilde Atilde -35
+KPX O A -35
+KPX O Aacute -35
+KPX O Abreve -35
+KPX O Acircumflex -35
+KPX O Adieresis -35
+KPX O Agrave -35
+KPX O Amacron -35
+KPX O Aogonek -35
+KPX O Aring -35
+KPX O Atilde -35
+KPX O T -40
+KPX O Tcaron -40
+KPX O Tcommaaccent -40
+KPX O V -50
+KPX O W -35
+KPX O X -40
+KPX O Y -50
+KPX O Yacute -50
+KPX O Ydieresis -50
+KPX Oacute A -35
+KPX Oacute Aacute -35
+KPX Oacute Abreve -35
+KPX Oacute Acircumflex -35
+KPX Oacute Adieresis -35
+KPX Oacute Agrave -35
+KPX Oacute Amacron -35
+KPX Oacute Aogonek -35
+KPX Oacute Aring -35
+KPX Oacute Atilde -35
+KPX Oacute T -40
+KPX Oacute Tcaron -40
+KPX Oacute Tcommaaccent -40
+KPX Oacute V -50
+KPX Oacute W -35
+KPX Oacute X -40
+KPX Oacute Y -50
+KPX Oacute Yacute -50
+KPX Oacute Ydieresis -50
+KPX Ocircumflex A -35
+KPX Ocircumflex Aacute -35
+KPX Ocircumflex Abreve -35
+KPX Ocircumflex Acircumflex -35
+KPX Ocircumflex Adieresis -35
+KPX Ocircumflex Agrave -35
+KPX Ocircumflex Amacron -35
+KPX Ocircumflex Aogonek -35
+KPX Ocircumflex Aring -35
+KPX Ocircumflex Atilde -35
+KPX Ocircumflex T -40
+KPX Ocircumflex Tcaron -40
+KPX Ocircumflex Tcommaaccent -40
+KPX Ocircumflex V -50
+KPX Ocircumflex W -35
+KPX Ocircumflex X -40
+KPX Ocircumflex Y -50
+KPX Ocircumflex Yacute -50
+KPX Ocircumflex Ydieresis -50
+KPX Odieresis A -35
+KPX Odieresis Aacute -35
+KPX Odieresis Abreve -35
+KPX Odieresis Acircumflex -35
+KPX Odieresis Adieresis -35
+KPX Odieresis Agrave -35
+KPX Odieresis Amacron -35
+KPX Odieresis Aogonek -35
+KPX Odieresis Aring -35
+KPX Odieresis Atilde -35
+KPX Odieresis T -40
+KPX Odieresis Tcaron -40
+KPX Odieresis Tcommaaccent -40
+KPX Odieresis V -50
+KPX Odieresis W -35
+KPX Odieresis X -40
+KPX Odieresis Y -50
+KPX Odieresis Yacute -50
+KPX Odieresis Ydieresis -50
+KPX Ograve A -35
+KPX Ograve Aacute -35
+KPX Ograve Abreve -35
+KPX Ograve Acircumflex -35
+KPX Ograve Adieresis -35
+KPX Ograve Agrave -35
+KPX Ograve Amacron -35
+KPX Ograve Aogonek -35
+KPX Ograve Aring -35
+KPX Ograve Atilde -35
+KPX Ograve T -40
+KPX Ograve Tcaron -40
+KPX Ograve Tcommaaccent -40
+KPX Ograve V -50
+KPX Ograve W -35
+KPX Ograve X -40
+KPX Ograve Y -50
+KPX Ograve Yacute -50
+KPX Ograve Ydieresis -50
+KPX Ohungarumlaut A -35
+KPX Ohungarumlaut Aacute -35
+KPX Ohungarumlaut Abreve -35
+KPX Ohungarumlaut Acircumflex -35
+KPX Ohungarumlaut Adieresis -35
+KPX Ohungarumlaut Agrave -35
+KPX Ohungarumlaut Amacron -35
+KPX Ohungarumlaut Aogonek -35
+KPX Ohungarumlaut Aring -35
+KPX Ohungarumlaut Atilde -35
+KPX Ohungarumlaut T -40
+KPX Ohungarumlaut Tcaron -40
+KPX Ohungarumlaut Tcommaaccent -40
+KPX Ohungarumlaut V -50
+KPX Ohungarumlaut W -35
+KPX Ohungarumlaut X -40
+KPX Ohungarumlaut Y -50
+KPX Ohungarumlaut Yacute -50
+KPX Ohungarumlaut Ydieresis -50
+KPX Omacron A -35
+KPX Omacron Aacute -35
+KPX Omacron Abreve -35
+KPX Omacron Acircumflex -35
+KPX Omacron Adieresis -35
+KPX Omacron Agrave -35
+KPX Omacron Amacron -35
+KPX Omacron Aogonek -35
+KPX Omacron Aring -35
+KPX Omacron Atilde -35
+KPX Omacron T -40
+KPX Omacron Tcaron -40
+KPX Omacron Tcommaaccent -40
+KPX Omacron V -50
+KPX Omacron W -35
+KPX Omacron X -40
+KPX Omacron Y -50
+KPX Omacron Yacute -50
+KPX Omacron Ydieresis -50
+KPX Oslash A -35
+KPX Oslash Aacute -35
+KPX Oslash Abreve -35
+KPX Oslash Acircumflex -35
+KPX Oslash Adieresis -35
+KPX Oslash Agrave -35
+KPX Oslash Amacron -35
+KPX Oslash Aogonek -35
+KPX Oslash Aring -35
+KPX Oslash Atilde -35
+KPX Oslash T -40
+KPX Oslash Tcaron -40
+KPX Oslash Tcommaaccent -40
+KPX Oslash V -50
+KPX Oslash W -35
+KPX Oslash X -40
+KPX Oslash Y -50
+KPX Oslash Yacute -50
+KPX Oslash Ydieresis -50
+KPX Otilde A -35
+KPX Otilde Aacute -35
+KPX Otilde Abreve -35
+KPX Otilde Acircumflex -35
+KPX Otilde Adieresis -35
+KPX Otilde Agrave -35
+KPX Otilde Amacron -35
+KPX Otilde Aogonek -35
+KPX Otilde Aring -35
+KPX Otilde Atilde -35
+KPX Otilde T -40
+KPX Otilde Tcaron -40
+KPX Otilde Tcommaaccent -40
+KPX Otilde V -50
+KPX Otilde W -35
+KPX Otilde X -40
+KPX Otilde Y -50
+KPX Otilde Yacute -50
+KPX Otilde Ydieresis -50
+KPX P A -92
+KPX P Aacute -92
+KPX P Abreve -92
+KPX P Acircumflex -92
+KPX P Adieresis -92
+KPX P Agrave -92
+KPX P Amacron -92
+KPX P Aogonek -92
+KPX P Aring -92
+KPX P Atilde -92
+KPX P a -15
+KPX P aacute -15
+KPX P abreve -15
+KPX P acircumflex -15
+KPX P adieresis -15
+KPX P agrave -15
+KPX P amacron -15
+KPX P aogonek -15
+KPX P aring -15
+KPX P atilde -15
+KPX P comma -111
+KPX P period -111
+KPX Q U -10
+KPX Q Uacute -10
+KPX Q Ucircumflex -10
+KPX Q Udieresis -10
+KPX Q Ugrave -10
+KPX Q Uhungarumlaut -10
+KPX Q Umacron -10
+KPX Q Uogonek -10
+KPX Q Uring -10
+KPX R O -40
+KPX R Oacute -40
+KPX R Ocircumflex -40
+KPX R Odieresis -40
+KPX R Ograve -40
+KPX R Ohungarumlaut -40
+KPX R Omacron -40
+KPX R Oslash -40
+KPX R Otilde -40
+KPX R T -60
+KPX R Tcaron -60
+KPX R Tcommaaccent -60
+KPX R U -40
+KPX R Uacute -40
+KPX R Ucircumflex -40
+KPX R Udieresis -40
+KPX R Ugrave -40
+KPX R Uhungarumlaut -40
+KPX R Umacron -40
+KPX R Uogonek -40
+KPX R Uring -40
+KPX R V -80
+KPX R W -55
+KPX R Y -65
+KPX R Yacute -65
+KPX R Ydieresis -65
+KPX Racute O -40
+KPX Racute Oacute -40
+KPX Racute Ocircumflex -40
+KPX Racute Odieresis -40
+KPX Racute Ograve -40
+KPX Racute Ohungarumlaut -40
+KPX Racute Omacron -40
+KPX Racute Oslash -40
+KPX Racute Otilde -40
+KPX Racute T -60
+KPX Racute Tcaron -60
+KPX Racute Tcommaaccent -60
+KPX Racute U -40
+KPX Racute Uacute -40
+KPX Racute Ucircumflex -40
+KPX Racute Udieresis -40
+KPX Racute Ugrave -40
+KPX Racute Uhungarumlaut -40
+KPX Racute Umacron -40
+KPX Racute Uogonek -40
+KPX Racute Uring -40
+KPX Racute V -80
+KPX Racute W -55
+KPX Racute Y -65
+KPX Racute Yacute -65
+KPX Racute Ydieresis -65
+KPX Rcaron O -40
+KPX Rcaron Oacute -40
+KPX Rcaron Ocircumflex -40
+KPX Rcaron Odieresis -40
+KPX Rcaron Ograve -40
+KPX Rcaron Ohungarumlaut -40
+KPX Rcaron Omacron -40
+KPX Rcaron Oslash -40
+KPX Rcaron Otilde -40
+KPX Rcaron T -60
+KPX Rcaron Tcaron -60
+KPX Rcaron Tcommaaccent -60
+KPX Rcaron U -40
+KPX Rcaron Uacute -40
+KPX Rcaron Ucircumflex -40
+KPX Rcaron Udieresis -40
+KPX Rcaron Ugrave -40
+KPX Rcaron Uhungarumlaut -40
+KPX Rcaron Umacron -40
+KPX Rcaron Uogonek -40
+KPX Rcaron Uring -40
+KPX Rcaron V -80
+KPX Rcaron W -55
+KPX Rcaron Y -65
+KPX Rcaron Yacute -65
+KPX Rcaron Ydieresis -65
+KPX Rcommaaccent O -40
+KPX Rcommaaccent Oacute -40
+KPX Rcommaaccent Ocircumflex -40
+KPX Rcommaaccent Odieresis -40
+KPX Rcommaaccent Ograve -40
+KPX Rcommaaccent Ohungarumlaut -40
+KPX Rcommaaccent Omacron -40
+KPX Rcommaaccent Oslash -40
+KPX Rcommaaccent Otilde -40
+KPX Rcommaaccent T -60
+KPX Rcommaaccent Tcaron -60
+KPX Rcommaaccent Tcommaaccent -60
+KPX Rcommaaccent U -40
+KPX Rcommaaccent Uacute -40
+KPX Rcommaaccent Ucircumflex -40
+KPX Rcommaaccent Udieresis -40
+KPX Rcommaaccent Ugrave -40
+KPX Rcommaaccent Uhungarumlaut -40
+KPX Rcommaaccent Umacron -40
+KPX Rcommaaccent Uogonek -40
+KPX Rcommaaccent Uring -40
+KPX Rcommaaccent V -80
+KPX Rcommaaccent W -55
+KPX Rcommaaccent Y -65
+KPX Rcommaaccent Yacute -65
+KPX Rcommaaccent Ydieresis -65
+KPX T A -93
+KPX T Aacute -93
+KPX T Abreve -93
+KPX T Acircumflex -93
+KPX T Adieresis -93
+KPX T Agrave -93
+KPX T Amacron -93
+KPX T Aogonek -93
+KPX T Aring -93
+KPX T Atilde -93
+KPX T O -18
+KPX T Oacute -18
+KPX T Ocircumflex -18
+KPX T Odieresis -18
+KPX T Ograve -18
+KPX T Ohungarumlaut -18
+KPX T Omacron -18
+KPX T Oslash -18
+KPX T Otilde -18
+KPX T a -80
+KPX T aacute -80
+KPX T abreve -80
+KPX T acircumflex -80
+KPX T adieresis -40
+KPX T agrave -40
+KPX T amacron -40
+KPX T aogonek -80
+KPX T aring -80
+KPX T atilde -40
+KPX T colon -50
+KPX T comma -74
+KPX T e -70
+KPX T eacute -70
+KPX T ecaron -70
+KPX T ecircumflex -70
+KPX T edieresis -30
+KPX T edotaccent -70
+KPX T egrave -70
+KPX T emacron -30
+KPX T eogonek -70
+KPX T hyphen -92
+KPX T i -35
+KPX T iacute -35
+KPX T iogonek -35
+KPX T o -80
+KPX T oacute -80
+KPX T ocircumflex -80
+KPX T odieresis -80
+KPX T ograve -80
+KPX T ohungarumlaut -80
+KPX T omacron -80
+KPX T oslash -80
+KPX T otilde -80
+KPX T period -74
+KPX T r -35
+KPX T racute -35
+KPX T rcaron -35
+KPX T rcommaaccent -35
+KPX T semicolon -55
+KPX T u -45
+KPX T uacute -45
+KPX T ucircumflex -45
+KPX T udieresis -45
+KPX T ugrave -45
+KPX T uhungarumlaut -45
+KPX T umacron -45
+KPX T uogonek -45
+KPX T uring -45
+KPX T w -80
+KPX T y -80
+KPX T yacute -80
+KPX T ydieresis -80
+KPX Tcaron A -93
+KPX Tcaron Aacute -93
+KPX Tcaron Abreve -93
+KPX Tcaron Acircumflex -93
+KPX Tcaron Adieresis -93
+KPX Tcaron Agrave -93
+KPX Tcaron Amacron -93
+KPX Tcaron Aogonek -93
+KPX Tcaron Aring -93
+KPX Tcaron Atilde -93
+KPX Tcaron O -18
+KPX Tcaron Oacute -18
+KPX Tcaron Ocircumflex -18
+KPX Tcaron Odieresis -18
+KPX Tcaron Ograve -18
+KPX Tcaron Ohungarumlaut -18
+KPX Tcaron Omacron -18
+KPX Tcaron Oslash -18
+KPX Tcaron Otilde -18
+KPX Tcaron a -80
+KPX Tcaron aacute -80
+KPX Tcaron abreve -80
+KPX Tcaron acircumflex -80
+KPX Tcaron adieresis -40
+KPX Tcaron agrave -40
+KPX Tcaron amacron -40
+KPX Tcaron aogonek -80
+KPX Tcaron aring -80
+KPX Tcaron atilde -40
+KPX Tcaron colon -50
+KPX Tcaron comma -74
+KPX Tcaron e -70
+KPX Tcaron eacute -70
+KPX Tcaron ecaron -70
+KPX Tcaron ecircumflex -30
+KPX Tcaron edieresis -30
+KPX Tcaron edotaccent -70
+KPX Tcaron egrave -70
+KPX Tcaron emacron -30
+KPX Tcaron eogonek -70
+KPX Tcaron hyphen -92
+KPX Tcaron i -35
+KPX Tcaron iacute -35
+KPX Tcaron iogonek -35
+KPX Tcaron o -80
+KPX Tcaron oacute -80
+KPX Tcaron ocircumflex -80
+KPX Tcaron odieresis -80
+KPX Tcaron ograve -80
+KPX Tcaron ohungarumlaut -80
+KPX Tcaron omacron -80
+KPX Tcaron oslash -80
+KPX Tcaron otilde -80
+KPX Tcaron period -74
+KPX Tcaron r -35
+KPX Tcaron racute -35
+KPX Tcaron rcaron -35
+KPX Tcaron rcommaaccent -35
+KPX Tcaron semicolon -55
+KPX Tcaron u -45
+KPX Tcaron uacute -45
+KPX Tcaron ucircumflex -45
+KPX Tcaron udieresis -45
+KPX Tcaron ugrave -45
+KPX Tcaron uhungarumlaut -45
+KPX Tcaron umacron -45
+KPX Tcaron uogonek -45
+KPX Tcaron uring -45
+KPX Tcaron w -80
+KPX Tcaron y -80
+KPX Tcaron yacute -80
+KPX Tcaron ydieresis -80
+KPX Tcommaaccent A -93
+KPX Tcommaaccent Aacute -93
+KPX Tcommaaccent Abreve -93
+KPX Tcommaaccent Acircumflex -93
+KPX Tcommaaccent Adieresis -93
+KPX Tcommaaccent Agrave -93
+KPX Tcommaaccent Amacron -93
+KPX Tcommaaccent Aogonek -93
+KPX Tcommaaccent Aring -93
+KPX Tcommaaccent Atilde -93
+KPX Tcommaaccent O -18
+KPX Tcommaaccent Oacute -18
+KPX Tcommaaccent Ocircumflex -18
+KPX Tcommaaccent Odieresis -18
+KPX Tcommaaccent Ograve -18
+KPX Tcommaaccent Ohungarumlaut -18
+KPX Tcommaaccent Omacron -18
+KPX Tcommaaccent Oslash -18
+KPX Tcommaaccent Otilde -18
+KPX Tcommaaccent a -80
+KPX Tcommaaccent aacute -80
+KPX Tcommaaccent abreve -80
+KPX Tcommaaccent acircumflex -80
+KPX Tcommaaccent adieresis -40
+KPX Tcommaaccent agrave -40
+KPX Tcommaaccent amacron -40
+KPX Tcommaaccent aogonek -80
+KPX Tcommaaccent aring -80
+KPX Tcommaaccent atilde -40
+KPX Tcommaaccent colon -50
+KPX Tcommaaccent comma -74
+KPX Tcommaaccent e -70
+KPX Tcommaaccent eacute -70
+KPX Tcommaaccent ecaron -70
+KPX Tcommaaccent ecircumflex -30
+KPX Tcommaaccent edieresis -30
+KPX Tcommaaccent edotaccent -70
+KPX Tcommaaccent egrave -30
+KPX Tcommaaccent emacron -70
+KPX Tcommaaccent eogonek -70
+KPX Tcommaaccent hyphen -92
+KPX Tcommaaccent i -35
+KPX Tcommaaccent iacute -35
+KPX Tcommaaccent iogonek -35
+KPX Tcommaaccent o -80
+KPX Tcommaaccent oacute -80
+KPX Tcommaaccent ocircumflex -80
+KPX Tcommaaccent odieresis -80
+KPX Tcommaaccent ograve -80
+KPX Tcommaaccent ohungarumlaut -80
+KPX Tcommaaccent omacron -80
+KPX Tcommaaccent oslash -80
+KPX Tcommaaccent otilde -80
+KPX Tcommaaccent period -74
+KPX Tcommaaccent r -35
+KPX Tcommaaccent racute -35
+KPX Tcommaaccent rcaron -35
+KPX Tcommaaccent rcommaaccent -35
+KPX Tcommaaccent semicolon -55
+KPX Tcommaaccent u -45
+KPX Tcommaaccent uacute -45
+KPX Tcommaaccent ucircumflex -45
+KPX Tcommaaccent udieresis -45
+KPX Tcommaaccent ugrave -45
+KPX Tcommaaccent uhungarumlaut -45
+KPX Tcommaaccent umacron -45
+KPX Tcommaaccent uogonek -45
+KPX Tcommaaccent uring -45
+KPX Tcommaaccent w -80
+KPX Tcommaaccent y -80
+KPX Tcommaaccent yacute -80
+KPX Tcommaaccent ydieresis -80
+KPX U A -40
+KPX U Aacute -40
+KPX U Abreve -40
+KPX U Acircumflex -40
+KPX U Adieresis -40
+KPX U Agrave -40
+KPX U Amacron -40
+KPX U Aogonek -40
+KPX U Aring -40
+KPX U Atilde -40
+KPX Uacute A -40
+KPX Uacute Aacute -40
+KPX Uacute Abreve -40
+KPX Uacute Acircumflex -40
+KPX Uacute Adieresis -40
+KPX Uacute Agrave -40
+KPX Uacute Amacron -40
+KPX Uacute Aogonek -40
+KPX Uacute Aring -40
+KPX Uacute Atilde -40
+KPX Ucircumflex A -40
+KPX Ucircumflex Aacute -40
+KPX Ucircumflex Abreve -40
+KPX Ucircumflex Acircumflex -40
+KPX Ucircumflex Adieresis -40
+KPX Ucircumflex Agrave -40
+KPX Ucircumflex Amacron -40
+KPX Ucircumflex Aogonek -40
+KPX Ucircumflex Aring -40
+KPX Ucircumflex Atilde -40
+KPX Udieresis A -40
+KPX Udieresis Aacute -40
+KPX Udieresis Abreve -40
+KPX Udieresis Acircumflex -40
+KPX Udieresis Adieresis -40
+KPX Udieresis Agrave -40
+KPX Udieresis Amacron -40
+KPX Udieresis Aogonek -40
+KPX Udieresis Aring -40
+KPX Udieresis Atilde -40
+KPX Ugrave A -40
+KPX Ugrave Aacute -40
+KPX Ugrave Abreve -40
+KPX Ugrave Acircumflex -40
+KPX Ugrave Adieresis -40
+KPX Ugrave Agrave -40
+KPX Ugrave Amacron -40
+KPX Ugrave Aogonek -40
+KPX Ugrave Aring -40
+KPX Ugrave Atilde -40
+KPX UhungarumÌ!up!A*,2IPX uhın„aQÛeÓawE(Da`u|e -$p	
+√X| Uhtng%zumaeˆ`¿rre6Â0-$4/Kp»!huoarimm!qu 	#irgd-Vhe,g00KQX"uhQo'qrqm,aut Agiaze{iw +¨KPx`UhqÓf`rumlewt Qfwive -4∫%JPX0VbujOqvuM,auq"A-PAron2%%0å"	P°Ujuf·Útml#uE0aogon’+%1∏
+J|] Elaguarui˝„Ut ArYou§4pö[XZ Wh}ngA∑]-la∑|2ETml‰e‡<0
+KPTaUMacvjj¢A!41dOTTga#rn, Aac¥Ùe)4∞áä{Px UeÈ)zkÔhAbr}tg!≠4<MKTXpU_·ároN"Aai2+}M5le~,t†
+KPX,VgyÀrn |ierUrÒq09§0-
+kò WLic∂~ Agra~e$-ÙIR\ TlaarÂo!Bw`Îr+o#≠î∞KYX`-q°ron i{goÏEs(- -
+‘\ ◊ÕAcbÔn*Ap·ng§	42-JX!Vg)„Ûyk(¡D‰Ï-M +<0
+ÎTXTÔgonqK I*-4pJkR~1GOcoj%{ÅGwte %$ -
+KAÿ$UØwonaJ0„brIve*$4∞	
+KpX(]ogonÑ_!C√ibeu,&Ë°x`-t4
+[QX$Uoc?nekËQdKerÂ3hr /80MK4x°UeÁooek M‰raMdm40JIP¯UncgNak!IMabbjn`ç40L
+KPH TOcÔnm+ Aengj$'4!ãP eÎecÔek ArhoE Ï40
+KPX QFglNuÈ @`ilde(=tÑkX Uring0Al≤rKPI Wpizg†Aabt\e /∂4MöZPXhUpIFG†C‚rEve!m4)
+KRH`uriÓG AbixC}m‰lex -¥0è
+KPHUzØlg"Bfi%pÂSus"m äãPX"Uriff$E#rgge$%40ãxê\ UrÈoÁ(Ka`Jbmj040	KRX U˙k\gd≈GÎËgi =5pD
+ŸY urqmg E‚hoG`-5KPH0—jÈÓÔ Iti,lu =0ÆKPﬁ!TD‡135ç
+OQX V$QÂcıtA‡o175ÖJM@P v‡ ‚¯$vÂd/ó6JK@{8B%O ibe˜mt-eH†-1±=
+À–†T‡A`ae2$wiÛ)-0≥%=KUYaV0Mr%$e!,3∑ KPX §LUmhk“ØŒ015
+ÀPP F0A~'nekˆ-!35=
+o¿X VhYrilg(.734IPP0V AtI`De!Ω03KPX¢R F /9-JsRH V(Fbvare`%05ÀQX R(√Á.5m%agcÂOt*±5K”s† G -0KPX2÷†O…cudM mº
+J“X®C ocyrcw-Êjex$/4$JO–Y`^ O‰I%rDszs%ç60ä
+PX"VfMu ~g)1CPx(Vojqnga"um|au‘*e
+IpX0W Om]sR?N -40éã  OslQqH %04
+CY (Mtk.de$$∏8H\V a0-1±0k– V,aanuta ©112-ÀRT!w sbveVu ≠q1qj AH`V(ac	rKwMd,ep -71/i@Y R adyebrH{ '9
+kxX T‡ cÚ!vc(-/1KÍ÷†!ÌÒ#ˆ/N70≠
+KX V ·ngo~e++!1q
+KRh0∆ijyn' -±33J´P R0iamlÙˇ(-∂18ã4 V coÏOn¢-6pmKXQ V cgÌm!$-≥29+Kx6V`i0%1p±KSP"V ekbÒtv0/1;1
+Kxcﬁ$Âcepon ©71
+KPÿ@T es·~aeyÊjZ -71 Ky]V§gfie2usiS`-71-JKPT ÷ e¶gıeccÂÊd Ω3±ÏäHPh VaeÁraPE"-∑0M
+„êZ V†Ei¡frol %&0
+KSx (dfogf`co±1	KPX V†h˘phen m≤0pL
+KP]‡P(‡ /60JPXWIako|e0<"†JK–H9V0i°Ërcu}‚-e| -21%(√TÚ0V È‰a·Bus´s§>
+KPÿ!V#i'2!ue 24]
+[ X V†io¡cÚon ,"p*[PX ^0ioGnn•k-6˘
+c–Y  g -≤∞^kRX8F /°kutd0/39KT…&ƒ`Ô"h2sµl,lex 129ç
+PxF!ol!erÂsIs /®9åÍK–^  Ogtavf3®∏9	I–P*∆(Oh\ngar7%l@tu$-821HÀPY R$o˝ccvo¸ -<9á
+KAX v o˘~ish -29
+K¿ v!otq‰fu (<…Pÿ†÷0p%2yo$¢1"9	
+[Dê ^hreÈic,Ôn 7d?jI@XàV"k"Ø?5
+ PH^`uAC5ıe$,75JQX (w*)Ûwwyfld8 -7=äKPx†V!umia`echc 75ÌQX$^(ıspaøu∞-7ubNP !h◊.girumm!q| /wçJK@P!V Ey@Û⁄g~ ≠74KP\0V |Ô«knmk /7=KP∞ `%binM ,4BKP\ w "¶.qr2
+kPX0U eAc}tm e920KRË_ ABfetE0∞&0
+À@p(_Acirc5Mfla~=q20
+
+y–X0“"AÔi`rer·s mπ2≤JKpX W(C≈"Abu$≠9>2À@\  Pd`ob{f±-'rp™K@HpV°COgkOek(≠100	
+O0X w§A0InE',:îMJ‘[ WvA~il‰ %1:0pX $O"-∞"âTŸ(W!ci·wtÂ -1∞TX V ObiRay+vl!¯ -#8G@2w$Ofie`eqmc!,ë±}˚RX S"tre>d†-10*k@X _!_Ïw~gas%ml!eÙ %!0mKTX!G Omss{`</1PjCVX 6 Jwm@k®$ß0	[K–XbW‡O4mldDÄyÍPX$7aa <0
+PZhU 5qjwtm -X0	
+KX S af`dvm∞5®êä[’L¢”†acmz_mv$Ex†,80ç
+[–aW!1"yÂÚdyKQ`-x0…0H"W)aejhrm x¢	
+ITX®S a-A#ÚOm -råJKPX®_"!oeooÂ*`!º0;PX"G exina )8∞	ä˚–X1W eeÈlfU0-9∞
+KRU S ccrÔO†&7M[PxÑW`„Ômi@"-y2PY`W$ga)VIP‹ W!%·buue o80
+NPZ W$dce≤gn"-y0 kX] W"eahr„qod|ex -†
+[PP^ $dkerÂzisÅ-x0KXX W emn|·cadnŒ kz0è
+J–X W e«2‡Úi†-46äKPL w!aMgB2oj ç<
+K|`W eO'Nn%k =04E
+KTX#Ukπp™aÓ"*6çC@X 7$˘ ?44KRX W(kagutc +4pKTú wqiK„ÔoeK -päKPXW!o$%#pökHP V"mekQtE8-90änFX$◊ m{iÚ˙dM&lex!-ﬁ0éJuX"V†nDaewmsiq!-)0
+KPz"W oß2•vg0-8 *ÎTX4W(mhu/wa:=Mdcut°-∏2-JPX W!J}acÚ[G =8 kXY W†Ôsla2h(-:púKQX4◊0otimte ·0ç
+KQX w2PeRm/d¢!9
+OQX1W cd}i#olon ≠≥wL:IPy†0U mJ@ÿdU umcu4e4-52
+Px3W†uciÛa4mnlix0!%&M*JòX8$udaz`vaÀ /±4KPÿ1W"ug≤qva°-8-PP Y"ÊhungqRıl/aÛt -5 
+ŸP	 w`mmaarmo !50	
+K|» ≈`uogon@i†5 -KxQ ©ur	~k -=8JÀP†U8q m'≥VÅW8q·„7ÙG	-3-&CPŸ u(˚do%vqsi[!o73J[pZ ÿbKbi!4	äOl yqacttE–-122-äKPX†[!#p%vÂ -±20	OPX Z Ac)rceedleh"'!60-JP\  Ad+msDso3 -80:z
+ KÊAÁr·fe°=y≤0MKPX 	 AÈqCr -0f0KRX(Y"AßGoNeZ†/q30KI(§Cbym7 lër5ùÀPX†Y ¥ËÌ`e§≠130K@H Q è"/30
+KRpX Ka„ure,=3∞	§KX1Y†O#izcqmÁtcx$-;2*kPX ]†Otkg2eÛLR$-20MIXX`"Gsparea+PPY4 N)ı~Êcz5mlÈı| -∞äOP*Ua]Õec2on†§2∞	Q@X(LO≥harh!-30IPX%]4Oty~ƒ5†l≥:–^Q d"140-"ÀPX"Y a #ute§!!∞†mkPZ%PlpÚrUsa m110KPX2[*qcHR'5ÈfÏıŸ 	000
+XP Y$C|-epdsÔs`•7&*CPX UAgba~Âh6çJE@X 9 ¡-·arkn"ç&
+À`X Y°cnfm.Ák )010
+ãP} [†!¢ivw -∞0
+√Px`Y†c4il!U->-KPY†Y$c?lj0L9ÍP Ÿ"CkmEa*;12)CP\ I0e§-≥04-
+Î–X Y gaAauÂ$-(00-KT¯`Y!%capkn") 4h/
+CRIhZ mci0cumfLm| /140
+KPxY mekebmÛÈ3 ='
+O8$YÂA{tÈccdlu mx 
+[TX∞Ÿ!Ograwe ,20
+JPÿ"Z A}Ccv-  }4 K\Y$Y ÊkgÔnei !0KPz†0hqPlEO!-11KPX%Y Î†-==nK”ò0Y mA„ıP(Ì=5KPP ›$yogone{∞•∑KìA$y&(/520IPX$!pfpe®,1°"-JHzDQÚwsIr£tln Âx m=34
+KP: Ÿ nÊia¬ues"/'0;KX%[#mÊbanm†≠70	
+KPx(˘ Ó`mfoa2QmÏA1u(%;%0
+KT⁄ Ybomi#rnÓ )◊IqH†YOw-·˜x -1!¥âKP{ 1 oÙ1hla§Æ7qJKXX$YPLzind†-;69K@Y_ s-eicg|oj†,—:/
+{PX X"e0-51!çäK“X<Y!|acu|Â6=71yH0\ ÿ!u$mr{ul$leP†,19:K@X+Y }TylbaumÛ(,4Ò…KpH Y =g1!vM ∑SORX ],1Ëwlwa25m,·}t!¨3µ3-
+KPX Y uAicbko!=gë
+ãQ€ËQ†uonkŒek†≠≠11I@X U P{k~g %111J√–X Yqsute0@ •18ÍqZ YCc}Te!Ädc}pg ,06ê
+ZPJ#abUtm Pbba6e -!2ÙA0XaYab%|%$Ai)R„=mv‰g|!-1∏rIRÿ k%Cq2Ub@DI˜r‰WÈ˜0+0>p	K X ô#cUTe"Ag~euE(/Y6
+CDX xacW¥' Blaco|`-@>0	
+OP Qi#fe≠AfgÔoek0-12tçéKTX"Yac5ta,ISy>O*)1"0IBÿ∏Ÿ!kut‰ Yty4deº-1"pN“T!…ac5~Â$K ,3¥9ÀPÿ$P#Ûµte"Oacq¯e -!©éVZ2XÈeuveÄOcmpc˜mfxux -30	KPÿ ŸqÛup'1œf!%RmsmÛ†-(;"[TYab1ve†Ogra‡f`938
+[p‡yÒ#c4e`K(UjFh2qEl!ıv0mø0â
+EPX†Iibuuc Omq„rgj o34
+äPXl}acUde¶osÃawx`9≥0KdX ˘acrde6Otalde†m4ç*[X K`iÒte$a*5A18O•[ak≠pÒ"agcul =	ãÀQ» YagutÔPabRıv·(=q0pJK\ Ye„}|eek·r‚|DLeh=12êäS@Z¢H!owwa
+auπe2Ds(y(-6$
+KQh!Yccst5H gsa‹} -∂ 
+O8Y$Y‰sutM$!%e„RÔ∆ )z0KPY [ecu7e `'+nmm -04∏
+KPX¢Yacups azknf/180	OPXYacu`Â(btxÈ@w"%6pOYPX ]acqte(cmln§-9bKQX!Y¡aevw ckmÌq - 0;KR‹ Acudıhu -14 Õ
++Px I·BuT a·Cwa ≠≥8M*k–Z"Yab]ˆÁÙucazo~o1pM
+JhQ YccqueDd„i~feovlex -1Ù4ïäk\ Y!svet0e$imqq3	w -42
+JPX!Rakedd∏gdouaak'lv`-q10≠
+kPK`˘q"ut`Äosp)&a$e∂2≠,ÎJx0Sa„ufg am)AvOÍ ∂8
+_ L"¡aaUb!"/Ákoeo Ìyp0
++P	 X!kptw xy|he. -±¥äc®Ic„Âvi -%
+BŸ"Y·autÁ aec±~m†-75L*JR» I!cøtÂ`k-ggeÀ -5
+KP$[qctm o!•0∞0ûKPX(Y`sı4· oqrUu%`-1p 
+Àxx0Qa!ıÙt`#htiıyfl3X ≠&18{p“!ŸCÎuÙg0ØD+qbec){°)7x
+KPy Yas5te$oGrAvÂ -<∞	
+KQX([acttux/@5fod{wMlaÔ4(-1%äAXH YawutÂ∞o|a{sol!%&0MZTZ*Qabut$(o±˝·sX=1(0
+CXY9]eßeTd`OUideÂ /1 
+KPQ ·sıdU#2%fioDd=±∏π	.—@‡dG||m stoÕgjLgl‚)92M
+…\§YeC˜6a†q∞-111*K]ÿxqa„d4% 5qsUt%)'15äKPÿ4YacpT≠buI©cÛ˜e&dtxA=91
+O@0yac}vÏ ˜')urÌwiq$-7!*IB~"ka„etu ˜brgfm '3èCPX Yac1pG u(Mno`suml!uv`m1#´
+KP\ Ÿq#'ta ıdesr/O&≠71<
+À‘Z yi#˝0d dmfone$21ë
+SPAQaCude qrins"-111ä PY Ñthere3asbA0?30
+KRY YtiebesIs`eCcUÙm -1"0œKDh%XDmÒ@gsiÛ(I`pgVe(-3£0
+OY ydyeprg3¡CÈÚj%m"he{"!
+KQx Ÿeireci3%¡dyMbe{ir3≤0-î ]DieRf{i˜Acsqf! -4:ƒKPò`KdmepeÛas:Qm™cpo~†≠±2pM
+Kp\ yƒimr)ya ¡_q.n%k -9∫0ÇJXx €d;ErÂ6iS Vr)no0Q:0äSPy†yD·qXis9s†C}˘lteb-∞6!
+JXX"yDmezm{iÚ O,)#0
+ÉPX Ymi!bar{s8NAcw4‰ !;0,
+KPX(]d·GÚasis JkyvÂum&lex -3 ÃCPL,Wd`msesi„0OtmEre2iw(2r
+PP …%Ì}sÂrÈsiœob!e -![Pÿ$X‰y$pdsaAOj]nwareefu| %3 
+PH ÿLiyQusmc Ola#÷on ø3†ÃJ{PX†Q|i47ebÈs J”hasH!l3∞JyêX ŸdkmzerÈÛ miÏdqa-10YRY#dymRgrc[ ·©10 J∞\ Yd{q{asmS0aq„Q4% -q10]KPÿ y$hmqÂÛhc ar`m‚u m3∞!Ö
+K@Z@ydeÚAwm{&p£i6cımÊhmÿ))q0≤
+CPX!yemev5sis !l≠eˆis)s ,6p	kPX%YdiopesAs °g0avÂ`.6∞MJP4UDiÂSesjS8ai ‚vmj'^6E
+KP Il)u˙tsi3§i.oooek§$9±0JK⁄X"AeÎErı(IS$cbi$·(ç=0öK@X ytÈÂ≤Âc	Û!mt)l4l(eq0 ç
+KVY1—"!gResiw†soL˛ %16*_ÿ QdÈMpesÈs oeMC 92(KÿJ4ëtÈgRaSiB y®-ë JKTY 	DkDbe{Ks wecuÙe /!0 çäKPV`ydIerasmr Âae7o˙†*s6!
+KD\ KieZeris(qjiNb}efdcx -ar0
+Ox‹ Ydk•resiq"efaebeCiy&9>8(KPY [dievdcKs efO|asÛEnt1,q40é
+NPÿ‡Xdiwresr %*2ytÂ0,&0CP˙!]$[5bESis!mÕakc„. &qJKQ– W$iezmpcc mo«oEo %®00-CKPÿ Yf·mrfsmsdixP(E11±8Y(YEhezeki1"a$=5âKPX0YvimZesËr È`"5T@)45-ÆCPX!˘haMraÛoq`y/g,nf+ /Ù7jPX$Yye≤ewis`k -15 äKRX ]d(e2s+s oycyÙm /954-KÄX$S¨yarerysdoshbvndlmx0m!⁄ X0[dπMpmsh3 odid>e˜˚3&8[8JPX!X|ie0eskwaeb`∑%%-75%KPX{IdAeªwzÎs@;(wN$ar%mÏAUv<1y8J[ò`yfie`DsÈw†‚ieAr/n lq-ÀZyAdiEbesiQ oslA{h ;90mãO—Q`Ydie‚es)S opAl‰m -70M
+KBX"YbI&r%cis¢pubkc" -03iM
+OPX`Y$idÊe{ys ReÈÈ'O‰oNp-=¢	+P@ Hl-aREs{s q ß∞1qå
+JxX KdlmrgÛ‡c uÎcq|e0-qç[–X8…rierewi#†6sircu≠6lux0)q±0
+¿X!YTlaRes)z ulÌmxdbÈc°È∑pMPY‡YDiuÚ%chs(tWsave‡75ç[ê@"q‚mEBlCÈs0ubung`vui<gwT"-qq1Kx¯0Yd+tfos)s"um!c>on0-7KRX ]dIe‚Â{ip`5owoÓÂ`-1}+
+ê\ YhFe:uqjs$5˙o.w†%015
+KXA7$-' K÷]`·a˜ o1=Q¿(°·kU}E%v§Rs
+C–»§·e#udÂÄ? -8µ+[P»!afsur!$w 	≤1KP]	Íb2etepw!/1%YpX0awiwaumGlD| v /28
+ Pÿ"abH2cui‰,Âh!w -%Q
+ÀPX Adae0ggi{$6!'6piOPX$adhmre3}c w‡m15
+KPY$awv!ve v§mv0	K@Z )graˆd v )5 *KPX†cÌacvkÓ F -;≤JP_ go·'2o†w u1%-KPX a_gknakz`•"KXP(·Ofon˚{®0-15K‹H1arinnbT(30„
+[¿ÿ"ajifw!w-0qâ
+KQX a|Il∂E 6 -3t"kR¯ adÈlvÁ„w81e OP d(pav)md)≠0
+KBxq‚`ı /20ãcrX)b 5bcute -"0oDz b uaËrcÒmfme8†)22/*Î\!‡ !DiwrGskq /¢0Æ[P»2b 3vravep%01CPò b }Ëeoczm}m-Ât†="r
+KPy`C )m!c2mjä62
+K@˛$b u'oÕEk )2!ï
+K@T‚qsÈ.G†©0k∞Zs‚ v$/ë7.`RX0c yma6
+K–Z j`iacu¥d%-c7M
+KpX`aÄy‘ye2es`r†.5*tÿ1sc#ue(x 91µJHX!A`„}‰°`yaw5tw`-15
+KPX"ces4Te ˘$iabgsmw†-=4/äiÿS „ccvo& y-%¿X†gbir«& A3]te°1uL
+KP\@cCerOo XlkerEsiz†}159äÀPÿêgm•tÈhÏi,1"-05	HÎPp £ceuadnc†{esqreÇ=1uMk–¿†ico|H`l# ;dKe‚Usm7h-13KRX$k>moa q'pÂdb`{i`l‰(*7∞J
+CP`GOl-i(Ìutazigxt"=78ãJx@te '$/11CP\dÁ fCrÂr˜`>1∑%äK@X g0G„ommi%!a%ne-!5]
+ÀPÃde2W°)0&
+JDX d$w0=25J@Y®e < Ì!5NÍKQ$#%y<JKPx`e ±lkuTf`-QI»,Ì ipigsÂvyc)=!5k»[$eacUtÂhg -±5S^!•akPle%W"rEVd`%°ΩçäKP¯ gagupe)gkeMcacceÁ0%-qå
+KXX)eI„54d w %6µ
+KPX!eÛa5te w031– ‰Svta$x(πÀPP©U#cque0{†-118CX†gisÙ|e yscÂte %!5mKP$e`cıue1Y‰È`ReKa3 /1qåJvX"e#ir7n o m15
+KX egacØn†g‚rcre )01BPX!egqon&g√ooia·#sm.u$%75	KP\(u√aÚg| \!-∫5
+ÀRX esaq}o0W§ç25E¶[XX ekÒrˇo \î-5*[PX≤ucc≤nN,8"-ÇHV\ g{ipof(y·„tæe*Ìq!-
+KPX`dkarÔn yD9ereÒyw$,5À[¯ eciÚC%mnHex!3 -Q4
+Z(eci"allv®cx;gbre6Â '0=åä
+UX mcIrc5lwh5r¢c#nÌk√ggeÍt %1E«QXhec)sb}mÊLÂx |(=35©…P$ok)bkuivhh|")2ïä…PX ˝qmsdÒm&‰e|"x1-14M
+KP€‡·cÈpceØnlMp(} -55MÀ‘ÿ ecYr{Alfleh:yea‰pGd-15
+√ eÎk2cqeoLı8î9vyÁ2a{™z -15ÀQP"Ifimrms!wÄg1/Y5%AÿZ†ÂeAeses1q$gcbev%1-04
+Kx m`i-r-qcr$gjÔ…eaaccakt†-05
+KPZ qdyÁ_deis t0-:	ãBXa≈fyevE3hs u@(0v
+[QX0e‰ie“g≥iw†x$,1îÕJKƒö ohiesa˚)r ym±JÎ–X1a‰Ieresiuqxbut$/=µ	CT"tfiaPEsis afx%ÚGsys /14≠
+KXX2%nmtq„a·fub7$=15
+JQ\"Ìio@√!ÂÍÙ"g3rewe8q7ÖoX duot!K„Gnt§fAÔi'a·wKanU†=9
+KPH e`_tcW#ent"•(≠vµ	
+¡ÿ mfl|a#au`t`ˆ$-2èrX"edO6·„kelt x4Ò¥
+IXX1e`M∞|cCmNu&q -15-
+j–Y(el.uee{eov I!Gue q%
+kQŸ g‰/ta##Â,t†y@iEs˝ÛIR `7	»@ ·g°vM W©,s7-OPX`ıÁrqVE %"r§ru -15-OUx$''2a}ı('coÌegcuGu -17i– &fpgvu v"/S4K–P !gRasa!q :
+€Dz)lgz!6f ˘§,7*jTXa≈grave`}.M1µNKKX E'ÚavÌ yAct4e91'
+ÔPX0Ggrafg"yd)iÚeŸis†=15
+KTb$tmQCrÔN g 15KY"mmagRon &BRaˆc ≠15OKPqg-A‚rÔn2gAoM}Â‚cent =1]
+KP–0mÌisbOf"6 -í5J@!eiaCRon 7y"9ÃK@X$·Âa+roj ¯ 15
+KPH(emacron0y§5
+GY±eÌf#rjÔ!yic]tm0,15
+CAQ0wl`br/o ytigrqyi{ -3u
+ÎX0moˇ-oFk Á %15-™ R&EÀco/e+`gbp$wg0%1uG8ãH0 oÔ≈ÔcK`osoi- ecc}j5 -±}
+KX(%oßﬂn∆À(r"Ωv?CPP‡eogimkW %:±Õä#"Á%oOek$Ho15ÍO–X!akomNec Y /1=
+JSX egkÔ%/ y%cwae m1ıKT2eF7~Ei$aliepdÛIw!-4i_K‘S &·q -q∏
+¬RXn$a!sude -q0M
+HrX g$cbrppo<44Õ
+[py f!qeisc7Ìf<-8)o±pÄIP` & aÊcerE3Is ≠q(NKPZ c(agrve ≠0	
+I\Êf0am°ÍrÎo†-1ÕKHÿf(qOcjÓdk ç12I@x v0‡rinG )!0=ãP»(f !dilt`*G!0ÕRKê\!b!fmvhFrsÈ <51ÑJÀTX`b ti©25ç
+ÀQX V$y -22OkPL d iikıpı -2pKpY g@qw/Pm2AghÙeµ5ØMRP°d a"/-ÀêX(cÄa`c<v%!5
+PXw†pËz‰vm uM
+K g(%c(rbtm&dez /5-
+K@†ÁcEdq5ve{I!n5I
+IpH Á$awz`~% -$P g a}a3o| =5	J[RX gagŒgnÂk$,4Ö
+KQ\ Á!°riÓg ?¥
+CQb'†AƒËle$≠¥
+
+PX`gbrÂ~a&a¥%0KPò GN{uwu0!aRÙub!≥OTX%gbÍwdE aaReTm -1"[\ d`vf~E®Egi‚#umFtEx$5
+SPX cbrd∂e0{Ê(o&%skı!,]JKpX(w rd~e ag2wÚÂ %
+OP<£dbrdve0qmAzron&,ekP gbrd^eÉaÓdlcª41KTx4FjrewÌ$a2iŒÂuqç*À8 g`RIre atyl‡Eb=5KcX⁄ Gcoymaaccen\ @%-3jx\`6koım„aa£≈n} earutE /1è
+KPJ"g[omÏl##CDoÙ cfrÂˆÂ Øu[À–X ggKlm1!k„Enp`!cy{‚Ulflex!%±JÇRjßCgmmSaCc5ntpibI%re{is`-=ç
+JòX ˜j/}}`asbeÓ∂ !cÈvgH-7ù
+IQX"fboeÌ!A„cefÙ$ame+p/ˆ`-5/ JPX(W„Oœmaacee~‰0aoko~mk )u
+PX g!oOÕaëksmnı )rinv ≠IPX colMaekcm.t aT	lde%-y
+KPX"Ë!m`	%
+opZ`H(yiqÙVabm5X"h ˘f)asesaÛ -Ω-⁄RX0)"p0=0=$
+IPz xqe}pe0v†e25ç
+KTP¢i„kbcDm6ldx4f$%∫4:KPx$ifkmbdsh2 60-27≠,KYx∞kgpiv'†s -5LSPÿ()nSAfo 4-:5
+´R\ iogone{ v@C0ÆPX k d%145äÀPÿ∞+(ÂÒ√w¥m -0KXËk Âcwsao`-∞0≤ÉHx°j egirÉuÏn e¯(-1<
+KX¢K"-diarc2ir -0
+KPÿ £ ANkt`c·an‰ %1≤JPQ`[(ugzAwe -1¯ÀPX c8em·sB.!1
+KPY`o e;gndK m40BK@H°+ m Ø10
+OTX%kd}!eutg =±|ç
+[X†k*c!rcu}Flex -5 (
+K i$I·eresis$-30
+KAX!k%oerh~u12
+KPL Î Î¯qraqpıllay4 m90cPX oaoÁacRoÏ -10[Px` bsnaG@00âãP\ k oTmLbE®-90!éOPX`s Y%51çO–X y ya„uÙu2%5
+OPX4k†ydhGbesOs-1%ÖcP *`ÈmaieÔkeNt Ò©Ì10-KP‡{Aom-Aaa„env4dkguta!mq0MJKPX k£~mmcakce~ÙecargD /30KRX"k„lH,aaccm~t2ecqrbuego≠y∞,0$äKPx kc¸omacAcen~ %lÈeSusis =1 KPX0jconÌcacbent!iÓotiÁ„tLt"-pKQò ksÔm|a@kcendßÛAfdd-1M
+KRX†i3omMaeKuent0Cmicrgn(≠±4IPx¢Îc\|ma¡Cz$n‰,e{uooekË94OUT1k„Ômii·c`mnR!K -10jCP	(kcnmiaaaeÓx8qc5T%0-1p
+CPZ!ÈckMma·C#enu‚lcivA—Ef,e∏0m5<*KPQ'{cm*m`isf%Ít odiev≠s‡u(m90)JKpY kcmmmEqÉee™Ùngvt~g =00KPXakcwMM`kcc‡.ı∞knuLgAsm˝daıt030çOPY iCo}maa:benÙbkoi#pgf°-14ãcp kgoÕm≈·gbÂNt0jri!yh -Ò0	"KPYdhcoim°S##Èou mÙiÏÊg!,90.kPP bao-mcQkgant(i q7
+OPZ )cÔÌmAsi„efu yq3=egO1¥
+J^$jcomoA!K#eÓtdydsÂjeq)S&)5
+JPHal w ¨q1
+ÿP®Ì°fıÙÂ s†/(.AQHhlbgmmg±aqeÓÙ"w %#0èKX\(l‚ddq((ˇdπq8WPXbg ˆ =00
+[P†®y03*P⁄(n y¡cut4‡'±KI#*b9dIgr5pic %15	
+T\°ÓaCu5e v") 0U{kT\∞~hgtde Y -±5ç
+NQ© m@fut%(ies5fgt-15
+KPXtÏ#s±R‰ yeimruqis 535KPZ†oS!vÔD Ê‡}E0E:sP\@ÓcbboN`y(,1<JP[ oabs..ÄyasUtu0=1=KRXA?g}.ofh}LIgÚesIs0,1
+Kà†{bolm„°cCENt!vÄ-$ÀC@ò$.3O≠mqib√elt`˘a)17
+kQ]$osOmya#CÁenv ;qc=ue $Ò1
+KP[@^somiaawget \@ydre≥mr(≠1tçäRX OpkÏdu(V0-0 JZ{\ n4ilnm§y %95KPò2nlcÌde!x·ceTe&%!ﬂhRX n|xhÂey$-mpÌsis@,5KZZ k 6†-3Ω
+kPx Ì w -5U+p\ i°Ya=π0ô*OEH  iebu6i3!0
+KPX(Æ`xmÏEr‡chs )0ãQX4Êaju4m v ´94
+KyX$o cu\e w#%2uJ]0ÊD'4pG y %10≠äÀPÿ@oa„Ùtd yaaı4e"-!0m+P\ ÔAaT<Liu)o‚'2i{†	0(KQ g'ircÈmn-dx v -04äKP€ +cUrsu.v,gxw )25OK–X oaiÚ„umÆ,ÌË { Æq -lPp†ggirbÌmblm¯ ŸAc}te .11ç
+Rz obiÚAuLf,e<$yLyeƒSks∏=7pöZ»odiesÂrIz$W¢=ë1KTZ,Dymrasiq0w†-:5KTX ndiu`orhs`y -1 C—$odÈu2esis!˘eÒute -P0
+P odÈÂre+hsd}fk!rESy3`-!0
+KPX oFscT5`v -1ı9>KSX g%RarE w0-33-ÀQú ÔofÈwm†y - 0@J†ogR!6e x`"ıtE#18À@\ Ô7pgve y$ieRÂ!ÈS`m8=
+«PXêohınÁqr-Ï¸Iu`†v)94JIÿP EnÁarde‰`ut†w ´5MMTXÄohqn∑`ÚuohjttX…`)58	äCRX"o@ÒnkarUkNaıt ˝acqv· }±0I
+ÀP (}'gxs}oÌaut ˘lievg{i{!≠±0LCRP Omacvgxêg·%1
+[–P$iÌa„poÆ 3i25DY8-mem2on8y -π<-[–@†omacro(y`hutd -p
+k0oaecÚkN tdieveÚ	s`o19O\dM{l[h 60,0--äI–P(.7Ïi{h0w -≥$=KPX Nclcq®(x!-
+Àq– oÚl@3:ÑIdcUv% ç°∞À@ÿ .s~h9`bybÕmrfs}„ -1àKP»8m}yhdÂv#-15
+C]ÿ0tÈÏgdg"R5	Pÿ&gÙ	,‡e†q`- ≠
+[PZ∞+U)ldeqy!CuTm-0,äKP[§/ÙA,dm,ydQwrecms ©00	*ÀP\ p"y -1 KPÿ r†igkvpg@91<
+KÙX r k$ieresaÛ+ç0∞
+€P pabÂod0sQovÂd .xôÁhu`-7±	*Crppap)o$ ıÒo\urag)t®Uv0äK¿H"sUou$&¨hmft"h <<0Ö
+kP\†YuoLefbMmÌfr °a#mte 1é
+OX q¸odedÍlle˛d A‚Ú%^% i®∞
+jP\ suote`bl,DnT Cirgım'lÂx -<0	
+KX qeF¸efrlleff$ITyjresys"3	
+[–ÿ†umÙedBllÂfTaawr!|d®ÿÄ^
+	rZ 1ut%Ùbnlet™`@mi‡BK`i0*)ò$3wotqdjÏlup IoG~Neo ¨p™KPZ Ò7+ÙAfblle‡t @v[j˜%8∞ãTHsq%Felbx‡Üv!etYllc*-8pMKRP aeot!LeBÙ$A %8p
+kPX Òuœˆele&T0Åf#ute(,81:IPx-qqpgåe'vÅA"eˆm -0P.[PZ uqgpmngve ¡giRwpÌnhe8 /82åﬂt»ãqıouÂoeft @%Iez≈sm—$58p
+–X Wk`d%ftd¡gv`ve0-8B
+JP (quO9wlÊft AÌAaba& -ò®+
+À^X 1tePel%d0 CoÁA~gk0)|∞ 
+K X(aeotÂ‰n ¡rπog ?J[Q‹yiratefvAvald' ,< kPH†pultÂievt quoua|eddhm54 äKP¯ c}teÚ oIt t -40
+CQx y˜ndEÚiui`&d„rœd ≠1xéKPH qemtecHgltHl-1|≠Kê†rvgtEr)g,T dÎ e%e /µ"
+[‰X ·ıtep{ult†¸CnmmaigceÓ<(910
+KP\ e5Od≠ÛÈaht%‰;lhSZ!9 KP\ Òwodewg`t uvk‰%r·khw$-∑¥JCTX!Ò—Ô‘digËÙ$r0=ΩdM
+N quˇt.skt@p ~acu|° -%0kY°qumt}raÊht .kapGn(-=$-CX$ruit`XIÁJt 0#Û/m1as#Eo60+0
+KPp qqoteÚmgn>e˜`	559
+OPY®pdjvÂba'lˆbrEkute /7qéOpX`Pumt%2-g(Ù s#ar'l /55éK–X uqitarihÙ wce@kt,w ,5±çCPY Ò=oFdtYgit SckmmA¡#e%Mth-57	KPH!1uot%r%oÍt4w``we8-5¥Í[P@°qeOtgrIeŸt"t",=BkYX$Òe/ebio`e">„ÎelÈaf„Âj4 ,5j
+[J†}uju5rqoht T$%0M∫KP» 0b#o,ma-d19
+PX 1${2,q8
+Oÿ\ ∫bs˙veve øq0	 “<s∏ccme·a3cm~Ù -1∏
+ P1≤ hytnuo %30OÀ@H r†p!skl%-7±-äkAH baamÙI Bm-mi=.êäOPx rqowlıf@-38-KPX`reCsÙq ÁrRg6E()3x-
+K—\(\ccıvg oclkoacqIgnv ¨x/KCQT pcc5tÁ iiaxmn -í≤Î@P rec5te pÂÛi˛@ )=uH
+SRX!3casoL$"/m-a -44IR r„a3kn0f!,>-à[Rx"s"efOn®7‚Zesg m)*JPX%sb¡soH!'bommc·cCn|()4∏(K–X rcazj. -Yh‰n 9V0OPY∞sc`vnÎ¢8•Rio‰ -),PH†"ck≠M}aBseÓt wo‰laÄ-7 .JRÿ$r#oÌmaa"c'FT Á )<
+KAX rcŒmm"aCc¥np(g‚:q6e -5ÿäSQX rsom}aa!ceÓl$dcÓ-ÌÒÂck%~t°m9:MK@$rk.Mmiaccnt†fqh&j†%∂0MãÀqY2Rcgmi!acCenT PeRDod†-55
+Pz"sp,bq8 -45kPX"∑1ake AA„ute -15
+€êX spAke b~mS]=q
+K hs!a„a AC‡zb5igle<"}?w
+KVYbÛq·gd `}%sesis -55
+KPX space Agrave -55
+KPX space Amacron -55
+KPX space Aogonek -55
+KPX space Aring -55
+KPX space Atilde -55
+KPX space T -18
+KPX space Tcaron -18
+KPX space Tcommaaccent -18
+KPX space V -50
+KPX space W -30
+KPX space Y -90
+KPX space Yacute -90
+KPX space Ydieresis -90
+KPX v a -25
+KPX v aacute -25
+KPX v abreve -25
+KPX v acircumflex -25
+KPX v adieresis -25
+KPX v agrave -25
+KPX v amacron -25
+KPX v aogonek -25
+KPX v aring -25
+KPX v atilde -25
+KPX v comma -65
+KPX v e -15
+KPX v eacute -15
+KPX v ecaron -15
+KPX v ecircumflex -15
+KPX v edieresis -15
+KPX v edotaccent -15
+KPX v egrave -15
+KPX v emacron -15
+KPX v eogonek -15
+KPX v o -20
+KPX v oacute -20
+KPX v ocircumflex -20
+KPX v odieresis -20
+KPX v ograve -20
+KPX v ohungarumlaut -20
+KPX v omacron -20
+KPX v oslash -20
+KPX v otilde -20
+KPX v period -65
+KPX w a -10
+KPX w aacute -10
+KPX w abreve -10
+KPX w acircumflex -10
+KPX w adieresis -10
+KPX w agrave -10
+KPX w amacron -10
+KPX w aogonek -10
+KPX w aring -10
+KPX w atilde -10
+KPX w comma -65
+KPX w o -10
+KPX w oacute -10
+KPX w ocircumflex -10
+KPX w odieresis -10
+KPX w ograve -10
+KPX w ohungarumlaut -10
+KPX w omacron -10
+KPX w oslash -10
+KPX w otilde -10
+KPX w period -65
+KPX x e -15
+KPX x eacute -15
+KPX x ecaron -15
+KPX x ecircumflex -15
+KPX x edieresis -15
+KPX x edotaccent -15
+KPX x egrave -15
+KPX x emacron -15
+KPX x eogonek -15
+KPX y comma -65
+KPX y period -65
+KPX yacute comma -65
+KPX yacute period -65
+KPX ydieresis comma -65
+KPX ydieresis period -65
+EndKernPairs
+EndKernData
+EndFontMetrics
