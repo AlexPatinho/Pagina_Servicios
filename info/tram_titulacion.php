@@ -542,14 +542,14 @@ Para saber cuáles son las primeras aprobadas, se ordenan por semestre lectivo. 
 																		<span>Cambio de Opción de Titulación</span>
 																		<div class="Datos">
 																			<p>
-																				Solicita la cancelación de tu registro de titulación desde el Sistema de Seguimiento del Proceso de Titulación Universitaria  [poner ejemplos o los pasos a seguir] 
+																				Solicita la cancelación de tu registro de titulación desde el Sistema de Seguimiento del Proceso de Titulación Universitaria (<b><a href="https://seguimientotitulacion.unam.mx/">https://seguimientotitulacion.unam.mx/</a></b>) 
 																			</p>
 																		</div>
 
 																		<span><strong>Cambio de tema de tesis </strong></span>
 																		<div class="Datos">
 																			<p>
-																				Solicita la cancelación de tu registro de titulación desde el Sistema de Seguimiento del Proceso de Titulación Universitaria [poner ejemplos o los pasos a seguir] y registra tu nueva opción de titulación con el nuevo trabajo escrito
+																				De igual manera, debes solicitar la cancelación de tu registro de titulación desde el Sistema de Seguimiento del Proceso de Titulación Universitaria (<b><a href="https://seguimientotitulacion.unam.mx/">https://seguimientotitulacion.unam.mx/</a></b>) y registrar tu nueva opción de titulación con el nuevo trabajo escrito
 																			</p>                           
 																		</div>
 
